@@ -12,8 +12,7 @@ def function_exercise344(matrixT, episilon):
 	
 	R = matrixT[np.ix_([0,1,2], [0,1,2])]
 
-	return np.all(abs(R.T*R - np.identity(3)) < episilon) 
-	
+	return np.all(abs(R.T*R - np.identity(3)) < episilon) and (np.linalg.det(R) - 1 < episilon)
 	#return False;
 
 
