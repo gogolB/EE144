@@ -23,8 +23,8 @@ class turtlebot_move():
 	
 		self.tfListener = tf.TransformListener();
 
-		# Set update rate at 50 Hz
-		self.rate = rospy.Rate(50);
+		# Set update rate at 10 Hz
+		self.rate = rospy.Rate(100);
 
 	def shutdown(self):
 		rospy.loginfo("Stop Action")
@@ -49,9 +49,10 @@ class turtlebot_move():
 		return np.arctan2(y,x);
 
 	def kickgoal_pos1(self):
+		lin_traversed = 0
 		#setup linear/angular velocity goals, and p controller constants
-		phi_vel_goal = -1 #rads/s clockwise
-		lin_vel_goal = 0.5 #m/s
+		phi_vel_goal = -1.1 #rads/s clockwise
+		lin_vel_goal = 0.6 #m/s
 		phi_vel_p = 1
 		lin_vel_p = 1.1
 
@@ -66,7 +67,7 @@ class turtlebot_move():
 		#setup initial stationary twist
 		self.curr_vel = Twist()
 		self.curr_vel.linear.x = 0.0
-		self.curr_vel.angular.z = 0.0
+		self.curr_vel.angular.z = -1
 		self.setVel(self.curr_vel)
 
 		#get init position until it works
@@ -103,12 +104,13 @@ class turtlebot_move():
 			curr_ang = orientation[2]
 			
 			#calculate actual linear velocity = change in distance/time
-			actual_lin_vel = self.distance(curr_pos[0], curr_pos[1], last_pos[0], last_pos[1])*50
+			actual_lin_vel = self.distance(curr_pos[0], curr_pos[1], last_pos[0], last_pos[1])*100
+			lin_traversed = lin_traversed + (actual_lin_vel/100)
 			#print("Actual linear:")
 			#print(actual_lin_vel)
 			
 			#calculate actual angular velocity = change in angle/time
-			actual_phi_vel = (curr_ang - last_ang)*50
+			actual_phi_vel = (curr_ang - last_ang)*100
 			#print("Actual angular:")
 			#print(actual_phi_vel)
 			
@@ -117,13 +119,16 @@ class turtlebot_move():
 			
 			#print("Trying to set angular: ")
 			#print((phi_vel_p*(phi_vel_goal - actual_phi_vel)))
-			print("%7.5f,%7.5f,%7.5f,%7.5f,%7.5f"%(actual_lin_vel,actual_phi_vel,(lin_vel_p*(lin_vel_goal - actual_lin_vel)),(phi_vel_p*(phi_vel_goal - actual_phi_vel)), self.distance(curr_pos[0], curr_pos[1],0,0)));
+			print("%7.5f,%7.5f,%7.5f,%7.5f,%7.5f,%7.5f,%7.5f"%(actual_lin_vel,actual_phi_vel,(lin_vel_p*(lin_vel_goal - actual_lin_vel)),(phi_vel_p*(phi_vel_goal - actual_phi_vel)), self.distance(curr_pos[0], curr_pos[1],0,0),curr_pos[0],curr_pos[1]));
 			
 			#set new lin and ang velocities with p controller
-			self.curr_vel.linear.x = lin_vel_p*(lin_vel_goal - actual_lin_vel)
-			self.curr_vel.angular.z = phi_vel_p*(phi_vel_goal - actual_phi_vel)
+			self.curr_vel.linear.x = min(0.6, lin_vel_p*(lin_vel_goal - actual_lin_vel))
+			self.curr_vel.angular.z = max(-1.7,phi_vel_p*(phi_vel_goal - actual_phi_vel))
 			self.setVel(self.curr_vel)
 			
+			#check how many meters we have gone
+			if (lin_traversed >= 2*np.pi*0.5):
+				break
 			#sleep for 1/50 seconds
 			self.sleep()
 
