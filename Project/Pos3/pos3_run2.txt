@@ -1,0 +1,4015 @@
+[INFO] [1528239019.411907]: Press CTRL + C to terminate
+[INFO] [1528239020.516495]: position: [0.0, 0.0, 0.0]
+0.707
+[INFO] [1528239020.517974]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.526303]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.536241]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.546256]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.556209]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.566199]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.576274]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.586326]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.596583]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.606449]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.616337]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.626313]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.636314]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.646276]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.656371]: position: [0.0, 0.0, 0.0]
+straight towards 0.707000 0.000000
+0.707
+[INFO] [1528239020.666305]: position: [0.002217594262895558, -3.870432175388677e-07, 0.0]
+straight towards 0.707000 0.000000
+0.704782405737
+[INFO] [1528239020.676349]: position: [0.002217594262895558, -3.870432175388677e-07, 0.0]
+straight towards 0.707000 0.000000
+0.704782405737
+[INFO] [1528239020.686283]: position: [0.007932164094203342, -1.3844238165813346e-06, 0.0]
+straight towards 0.707000 0.000000
+0.699067835907
+[INFO] [1528239020.696326]: position: [0.007932164094203342, -1.3844238165813346e-06, 0.0]
+straight towards 0.707000 0.000000
+0.699067835907
+[INFO] [1528239020.706306]: position: [0.007932164094203342, -1.3844238165813346e-06, 0.0]
+straight towards 0.707000 0.000000
+0.699067835907
+[INFO] [1528239020.716324]: position: [0.007932164094203342, -1.3844238165813346e-06, 0.0]
+straight towards 0.707000 0.000000
+0.699067835907
+[INFO] [1528239020.726238]: position: [0.007932164094203342, -1.3844238165813346e-06, 0.0]
+straight towards 0.707000 0.000000
+0.699067835907
+[INFO] [1528239020.736688]: position: [0.007932164094203342, -1.3844238165813346e-06, 0.0]
+straight towards 0.707000 0.000000
+0.699067835907
+[INFO] [1528239020.746333]: position: [0.03339185207398504, -5.827977679479489e-06, 0.0]
+straight towards 0.707000 0.000000
+0.673608147951
+[INFO] [1528239020.756267]: position: [0.03339185207398504, -5.827977679479489e-06, 0.0]
+straight towards 0.707000 0.000000
+0.673608147951
+[INFO] [1528239020.766223]: position: [0.04115343104839452, -1.7640240603849722e-06, 0.0]
+straight towards 0.707000 0.000000
+0.665846568954
+[INFO] [1528239020.776205]: position: [0.04115343104839452, -1.7640240603849722e-06, 0.0]
+straight towards 0.707000 0.000000
+0.665846568954
+[INFO] [1528239020.786225]: position: [0.04115343104839452, -1.7640240603849722e-06, 0.0]
+straight towards 0.707000 0.000000
+0.665846568954
+[INFO] [1528239020.796229]: position: [0.04115343104839452, -1.7640240603849722e-06, 0.0]
+straight towards 0.707000 0.000000
+0.665846568954
+[INFO] [1528239020.806300]: position: [0.04115343104839452, -1.7640240603849722e-06, 0.0]
+straight towards 0.707000 0.000000
+0.665846568954
+[INFO] [1528239020.816686]: position: [0.04115343104839452, -1.7640240603849722e-06, 0.0]
+straight towards 0.707000 0.000000
+0.665846568954
+[INFO] [1528239020.826385]: position: [0.04115343104839452, -1.7640240603849722e-06, 0.0]
+straight towards 0.707000 0.000000
+0.665846568954
+[INFO] [1528239020.836244]: position: [0.04115343104839452, -1.7640240603849722e-06, 0.0]
+straight towards 0.707000 0.000000
+0.665846568954
+[INFO] [1528239020.846336]: position: [0.04115343104839452, -1.7640240603849722e-06, 0.0]
+straight towards 0.707000 0.000000
+0.665846568954
+[INFO] [1528239020.856396]: position: [0.04115343104839452, -1.7640240603849722e-06, 0.0]
+straight towards 0.707000 0.000000
+0.665846568954
+[INFO] [1528239020.866308]: position: [0.08025984401931457, 2.5537406974558155e-05, 0.0]
+straight towards 0.707000 0.000000
+0.626740156501
+[INFO] [1528239020.876257]: position: [0.08025984401931457, 2.5537406974558155e-05, 0.0]
+straight towards 0.707000 0.000000
+0.626740156501
+[INFO] [1528239020.886347]: position: [0.08025984401931457, 2.5537406974558155e-05, 0.0]
+straight towards 0.707000 0.000000
+0.626740156501
+[INFO] [1528239020.896808]: position: [0.08025984401931457, 2.5537406974558155e-05, 0.0]
+straight towards 0.707000 0.000000
+0.626740156501
+[INFO] [1528239020.906679]: position: [0.08025984401931457, 2.5537406974558155e-05, 0.0]
+straight towards 0.707000 0.000000
+0.626740156501
+[INFO] [1528239020.916476]: position: [0.08025984401931457, 2.5537406974558155e-05, 0.0]
+straight towards 0.707000 0.000000
+0.626740156501
+[INFO] [1528239020.926424]: position: [0.10644450516732133, 4.838784030267239e-05, 0.0]
+straight towards 0.707000 0.000000
+0.600555496782
+[INFO] [1528239020.936351]: position: [0.10644450516732133, 4.838784030267239e-05, 0.0]
+straight towards 0.707000 0.000000
+0.600555496782
+[INFO] [1528239020.946345]: position: [0.10644450516732133, 4.838784030267239e-05, 0.0]
+straight towards 0.707000 0.000000
+0.600555496782
+[INFO] [1528239020.956363]: position: [0.10644450516732133, 4.838784030267239e-05, 0.0]
+straight towards 0.707000 0.000000
+0.600555496782
+[INFO] [1528239020.966350]: position: [0.10644450516732133, 4.838784030267239e-05, 0.0]
+straight towards 0.707000 0.000000
+0.600555496782
+[INFO] [1528239020.976322]: position: [0.10644450516732133, 4.838784030267239e-05, 0.0]
+straight towards 0.707000 0.000000
+0.600555496782
+[INFO] [1528239020.986299]: position: [0.13032627680605363, 7.33967822227769e-05, 0.0]
+straight towards 0.707000 0.000000
+0.576673727865
+[INFO] [1528239020.996408]: position: [0.13032627680605363, 7.33967822227769e-05, 0.0]
+straight towards 0.707000 0.000000
+0.576673727865
+[INFO] [1528239021.006606]: position: [0.13032627680605363, 7.33967822227769e-05, 0.0]
+straight towards 0.707000 0.000000
+0.576673727865
+[INFO] [1528239021.016463]: position: [0.13032627680605363, 7.33967822227769e-05, 0.0]
+straight towards 0.707000 0.000000
+0.576673727865
+[INFO] [1528239021.026273]: position: [0.13032627680605363, 7.33967822227769e-05, 0.0]
+straight towards 0.707000 0.000000
+0.576673727865
+[INFO] [1528239021.036341]: position: [0.13032627680605363, 7.33967822227769e-05, 0.0]
+straight towards 0.707000 0.000000
+0.576673727865
+[INFO] [1528239021.046436]: position: [0.1547624418765752, 4.3542359776048835e-05, 0.0]
+straight towards 0.707000 0.000000
+0.55223755984
+[INFO] [1528239021.056326]: position: [0.1547624418765752, 4.3542359776048835e-05, 0.0]
+straight towards 0.707000 0.000000
+0.55223755984
+[INFO] [1528239021.066351]: position: [0.16307839908363037, 2.467401901439961e-05, 0.0]
+straight towards 0.707000 0.000000
+0.543921601476
+[INFO] [1528239021.076396]: position: [0.16307839908363037, 2.467401901439961e-05, 0.0]
+straight towards 0.707000 0.000000
+0.543921601476
+[INFO] [1528239021.086437]: position: [0.16307839908363037, 2.467401901439961e-05, 0.0]
+straight towards 0.707000 0.000000
+0.543921601476
+[INFO] [1528239021.096364]: position: [0.16307839908363037, 2.467401901439961e-05, 0.0]
+straight towards 0.707000 0.000000
+0.543921601476
+[INFO] [1528239021.106313]: position: [0.16307839908363037, 2.467401901439961e-05, 0.0]
+straight towards 0.707000 0.000000
+0.543921601476
+[INFO] [1528239021.116246]: position: [0.16307839908363037, 2.467401901439961e-05, 0.0]
+straight towards 0.707000 0.000000
+0.543921601476
+[INFO] [1528239021.126325]: position: [0.1873013152766913, -1.760298811367766e-05, 0.0]
+straight towards 0.707000 0.000000
+0.519698685021
+[INFO] [1528239021.136362]: position: [0.1873013152766913, -1.760298811367766e-05, 0.0]
+straight towards 0.707000 0.000000
+0.519698685021
+[INFO] [1528239021.146474]: position: [0.1873013152766913, -1.760298811367766e-05, 0.0]
+straight towards 0.707000 0.000000
+0.519698685021
+[INFO] [1528239021.156190]: position: [0.1873013152766913, -1.760298811367766e-05, 0.0]
+straight towards 0.707000 0.000000
+0.519698685021
+[INFO] [1528239021.166304]: position: [0.1873013152766913, -1.760298811367766e-05, 0.0]
+straight towards 0.707000 0.000000
+0.519698685021
+[INFO] [1528239021.176723]: position: [0.1873013152766913, -1.760298811367766e-05, 0.0]
+straight towards 0.707000 0.000000
+0.519698685021
+[INFO] [1528239021.186479]: position: [0.2122918785076261, -4.813473602603829e-05, 0.0]
+straight towards 0.707000 0.000000
+0.494708123834
+[INFO] [1528239021.196280]: position: [0.2122918785076261, -4.813473602603829e-05, 0.0]
+straight towards 0.707000 0.000000
+0.494708123834
+[INFO] [1528239021.206372]: position: [0.2122918785076261, -4.813473602603829e-05, 0.0]
+straight towards 0.707000 0.000000
+0.494708123834
+[INFO] [1528239021.216460]: position: [0.2122918785076261, -4.813473602603829e-05, 0.0]
+straight towards 0.707000 0.000000
+0.494708123834
+[INFO] [1528239021.226377]: position: [0.2122918785076261, -4.813473602603829e-05, 0.0]
+straight towards 0.707000 0.000000
+0.494708123834
+[INFO] [1528239021.236235]: position: [0.2122918785076261, -4.813473602603829e-05, 0.0]
+straight towards 0.707000 0.000000
+0.494708123834
+[INFO] [1528239021.246283]: position: [0.23672803799538394, -8.225407336681878e-05, 0.0]
+straight towards 0.707000 0.000000
+0.470271969198
+[INFO] [1528239021.256433]: position: [0.23672803799538394, -8.225407336681878e-05, 0.0]
+straight towards 0.707000 0.000000
+0.470271969198
+[INFO] [1528239021.266401]: position: [0.23672803799538394, -8.225407336681878e-05, 0.0]
+straight towards 0.707000 0.000000
+0.470271969198
+[INFO] [1528239021.276231]: position: [0.23672803799538394, -8.225407336681878e-05, 0.0]
+straight towards 0.707000 0.000000
+0.470271969198
+[INFO] [1528239021.286371]: position: [0.23672803799538394, -8.225407336681878e-05, 0.0]
+straight towards 0.707000 0.000000
+0.470271969198
+[INFO] [1528239021.296368]: position: [0.23672803799538394, -8.225407336681878e-05, 0.0]
+straight towards 0.707000 0.000000
+0.470271969198
+[INFO] [1528239021.306320]: position: [0.2612494831391187, -4.373584572736514e-05, 0.0]
+straight towards 0.707000 0.000000
+0.445750519007
+[INFO] [1528239021.316270]: position: [0.2612494831391187, -4.373584572736514e-05, 0.0]
+straight towards 0.707000 0.000000
+0.445750519007
+[INFO] [1528239021.326392]: position: [0.269608066547678, -1.7476495106760836e-05, 0.0]
+straight towards 0.707000 0.000000
+0.437391933801
+[INFO] [1528239021.336384]: position: [0.269608066547678, -1.7476495106760836e-05, 0.0]
+straight towards 0.707000 0.000000
+0.437391933801
+[INFO] [1528239021.346307]: position: [0.269608066547678, -1.7476495106760836e-05, 0.0]
+straight towards 0.707000 0.000000
+0.437391933801
+[INFO] [1528239021.356327]: position: [0.269608066547678, -1.7476495106760836e-05, 0.0]
+straight towards 0.707000 0.000000
+0.437391933801
+[INFO] [1528239021.366310]: position: [0.269608066547678, -1.7476495106760836e-05, 0.0]
+straight towards 0.707000 0.000000
+0.437391933801
+[INFO] [1528239021.376238]: position: [0.269608066547678, -1.7476495106760836e-05, 0.0]
+straight towards 0.707000 0.000000
+0.437391933801
+[INFO] [1528239021.386312]: position: [0.2944706133549531, 5.1953013723436364e-05, 0.0]
+straight towards 0.707000 0.000000
+0.412529389916
+[INFO] [1528239021.396348]: position: [0.2944706133549531, 5.1953013723436364e-05, 0.0]
+straight towards 0.707000 0.000000
+0.412529389916
+[INFO] [1528239021.406252]: position: [0.3024453962849087, 7.283099431086596e-05, 0.0]
+straight towards 0.707000 0.000000
+0.404554610271
+[INFO] [1528239021.416200]: position: [0.3024453962849087, 7.283099431086596e-05, 0.0]
+straight towards 0.707000 0.000000
+0.404554610271
+[INFO] [1528239021.426306]: position: [0.3024453962849087, 7.283099431086596e-05, 0.0]
+straight towards 0.707000 0.000000
+0.404554610271
+[INFO] [1528239021.436346]: position: [0.3024453962849087, 7.283099431086596e-05, 0.0]
+straight towards 0.707000 0.000000
+0.404554610271
+[INFO] [1528239021.446393]: position: [0.3024453962849087, 7.283099431086596e-05, 0.0]
+straight towards 0.707000 0.000000
+0.404554610271
+[INFO] [1528239021.456566]: position: [0.3024453962849087, 7.283099431086596e-05, 0.0]
+straight towards 0.707000 0.000000
+0.404554610271
+[INFO] [1528239021.466247]: position: [0.32756384131408706, 0.0001342070560831862, 0.0]
+straight towards 0.707000 0.000000
+0.379436182421
+[INFO] [1528239021.476209]: position: [0.32756384131408706, 0.0001342070560831862, 0.0]
+straight towards 0.707000 0.000000
+0.379436182421
+[INFO] [1528239021.486426]: position: [0.33583716934607644, 0.00014287086810550813, 0.0]
+straight towards 0.707000 0.000000
+0.371162858151
+[INFO] [1528239021.496266]: position: [0.33583716934607644, 0.00014287086810550813, 0.0]
+straight towards 0.707000 0.000000
+0.371162858151
+[INFO] [1528239021.506232]: position: [0.33583716934607644, 0.00014287086810550813, 0.0]
+straight towards 0.707000 0.000000
+0.371162858151
+[INFO] [1528239021.516264]: position: [0.33583716934607644, 0.00014287086810550813, 0.0]
+straight towards 0.707000 0.000000
+0.371162858151
+[INFO] [1528239021.526210]: position: [0.33583716934607644, 0.00014287086810550813, 0.0]
+straight towards 0.707000 0.000000
+0.371162858151
+[INFO] [1528239021.536412]: position: [0.33583716934607644, 0.00014287086810550813, 0.0]
+straight towards 0.707000 0.000000
+0.371162858151
+[INFO] [1528239021.546386]: position: [0.3607424405523323, 0.0001732984121000736, 0.0]
+straight towards 0.707000 0.000000
+0.346257602815
+[INFO] [1528239021.556479]: position: [0.3607424405523323, 0.0001732984121000736, 0.0]
+straight towards 0.707000 0.000000
+0.346257602815
+[INFO] [1528239021.566402]: position: [0.36901577198659297, 0.00016896650549510196, 0.0]
+straight towards 0.707000 0.000000
+0.337984270249
+[INFO] [1528239021.576351]: position: [0.36901577198659297, 0.00016896650549510196, 0.0]
+straight towards 0.707000 0.000000
+0.337984270249
+[INFO] [1528239021.586440]: position: [0.36901577198659297, 0.00016896650549510196, 0.0]
+straight towards 0.707000 0.000000
+0.337984270249
+[INFO] [1528239021.596430]: position: [0.36901577198659297, 0.00016896650549510196, 0.0]
+straight towards 0.707000 0.000000
+0.337984270249
+[INFO] [1528239021.606784]: position: [0.36901577198659297, 0.00016896650549510196, 0.0]
+straight towards 0.707000 0.000000
+0.337984270249
+[INFO] [1528239021.616586]: position: [0.36901577198659297, 0.00016896650549510196, 0.0]
+straight towards 0.707000 0.000000
+0.337984270249
+[INFO] [1528239021.626441]: position: [0.3937930994951223, 0.00013437080742356014, 0.0]
+straight towards 0.707000 0.000000
+0.313206929328
+[INFO] [1528239021.636601]: position: [0.3937930994951223, 0.00013437080742356014, 0.0]
+straight towards 0.707000 0.000000
+0.313206929328
+[INFO] [1528239021.646357]: position: [0.3937930994951223, 0.00013437080742356014, 0.0]
+straight towards 0.707000 0.000000
+0.313206929328
+[INFO] [1528239021.656873]: position: [0.3937930994951223, 0.00013437080742356014, 0.0]
+straight towards 0.707000 0.000000
+0.313206929328
+[INFO] [1528239021.666506]: position: [0.3937930994951223, 0.00013437080742356014, 0.0]
+straight towards 0.707000 0.000000
+0.313206929328
+[INFO] [1528239021.676503]: position: [0.3937930994951223, 0.00013437080742356014, 0.0]
+straight towards 0.707000 0.000000
+0.313206929328
+[INFO] [1528239021.686508]: position: [0.4190821724868349, 9.464679178842542e-05, 0.0]
+straight towards 0.707000 0.000000
+0.28791784307
+[INFO] [1528239021.696409]: position: [0.4190821724868349, 9.464679178842542e-05, 0.0]
+straight towards 0.707000 0.000000
+0.28791784307
+[INFO] [1528239021.706389]: position: [0.4272702124680086, 9.750495704363891e-05, 0.0]
+straight towards 0.707000 0.000000
+0.279729804526
+[INFO] [1528239021.716822]: position: [0.4272702124680086, 9.750495704363891e-05, 0.0]
+straight towards 0.707000 0.000000
+0.279729804526
+[INFO] [1528239021.726473]: position: [0.4272702124680086, 9.750495704363891e-05, 0.0]
+straight towards 0.707000 0.000000
+0.279729804526
+[INFO] [1528239021.736629]: position: [0.4272702124680086, 9.750495704363891e-05, 0.0]
+straight towards 0.707000 0.000000
+0.279729804526
+[INFO] [1528239021.746428]: position: [0.4272702124680086, 9.750495704363891e-05, 0.0]
+straight towards 0.707000 0.000000
+0.279729804526
+[INFO] [1528239021.756590]: position: [0.4272702124680086, 9.750495704363891e-05, 0.0]
+straight towards 0.707000 0.000000
+0.279729804526
+[INFO] [1528239021.766680]: position: [0.4523034388687845, 0.00010624320186035931, 0.0]
+straight towards 0.707000 0.000000
+0.25469658329
+[INFO] [1528239021.777164]: position: [0.4523034388687845, 0.00010624320186035931, 0.0]
+straight towards 0.707000 0.000000
+0.25469658329
+[INFO] [1528239021.786531]: position: [0.4523034388687845, 0.00010624320186035931, 0.0]
+straight towards 0.707000 0.000000
+0.25469658329
+[INFO] [1528239021.796393]: position: [0.4523034388687845, 0.00010624320186035931, 0.0]
+straight towards 0.707000 0.000000
+0.25469658329
+[INFO] [1528239021.806782]: position: [0.4523034388687845, 0.00010624320186035931, 0.0]
+straight towards 0.707000 0.000000
+0.25469658329
+[INFO] [1528239021.816553]: position: [0.4523034388687845, 0.00010624320186035931, 0.0]
+straight towards 0.707000 0.000000
+0.25469658329
+[INFO] [1528239021.826558]: position: [0.4774646045439456, 0.00010185174996905292, 0.0]
+straight towards 0.707000 0.000000
+0.229535418053
+[INFO] [1528239021.836499]: position: [0.4774646045439456, 0.00010185174996905292, 0.0]
+straight towards 0.707000 0.000000
+0.229535418053
+[INFO] [1528239021.846431]: position: [0.4774646045439456, 0.00010185174996905292, 0.0]
+straight towards 0.707000 0.000000
+0.229535418053
+[INFO] [1528239021.856433]: position: [0.4774646045439456, 0.00010185174996905292, 0.0]
+straight towards 0.707000 0.000000
+0.229535418053
+[INFO] [1528239021.866464]: position: [0.4774646045439456, 0.00010185174996905292, 0.0]
+straight towards 0.707000 0.000000
+0.229535418053
+[INFO] [1528239021.876870]: position: [0.4774646045439456, 0.00010185174996905292, 0.0]
+straight towards 0.707000 0.000000
+0.229535418053
+[INFO] [1528239021.886618]: position: [0.5025404724031616, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.204459562436
+[INFO] [1528239021.896435]: position: [0.5025404724031616, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.204459562436
+[INFO] [1528239021.906293]: position: [0.5025404724031616, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.204459562436
+[INFO] [1528239021.916413]: position: [0.5025404724031616, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.204459562436
+[INFO] [1528239021.926399]: position: [0.5025404724031616, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.204459562436
+[INFO] [1528239021.936457]: position: [0.5025404724031616, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.204459562436
+[INFO] [1528239021.946390]: position: [0.5277869305498827, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.179213109197
+[INFO] [1528239021.956406]: position: [0.5277869305498827, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.179213109197
+[INFO] [1528239021.966434]: position: [0.5277869305498827, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.179213109197
+[INFO] [1528239021.976454]: position: [0.5277869305498827, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.179213109197
+[INFO] [1528239021.986386]: position: [0.5277869305498827, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.179213109197
+[INFO] [1528239021.996449]: position: [0.5277869305498827, 0.00011935801109069584, 0.0]
+straight towards 0.707000 0.000000
+0.179213109197
+[INFO] [1528239022.006397]: position: [0.5530333421690269, 7.088832076221338e-05, 0.0]
+straight towards 0.707000 0.000000
+0.15396667415
+[INFO] [1528239022.016757]: position: [0.5530333421690269, 7.088832076221338e-05, 0.0]
+straight towards 0.707000 0.000000
+0.15396667415
+[INFO] [1528239022.026566]: position: [0.5615199017267685, 6.34823985597752e-05, 0.0]
+straight towards 0.707000 0.000000
+0.145480112124
+[INFO] [1528239022.036672]: position: [0.5615199017267685, 6.34823985597752e-05, 0.0]
+straight towards 0.707000 0.000000
+0.145480112124
+[INFO] [1528239022.046510]: position: [0.5615199017267685, 6.34823985597752e-05, 0.0]
+straight towards 0.707000 0.000000
+0.145480112124
+[INFO] [1528239022.056519]: position: [0.5615199017267685, 6.34823985597752e-05, 0.0]
+straight towards 0.707000 0.000000
+0.145480112124
+[INFO] [1528239022.066539]: position: [0.5615199017267685, 6.34823985597752e-05, 0.0]
+straight towards 0.707000 0.000000
+0.145480112124
+[INFO] [1528239022.077013]: position: [0.5615199017267685, 6.34823985597752e-05, 0.0]
+straight towards 0.707000 0.000000
+0.145480112124
+[INFO] [1528239022.086649]: position: [0.5868089997548552, 4.582727467348684e-05, 0.0]
+straight towards 0.707000 0.000000
+0.120191008982
+[INFO] [1528239022.096569]: position: [0.5868089997548552, 4.582727467348684e-05, 0.0]
+straight towards 0.707000 0.000000
+0.120191008982
+[INFO] [1528239022.106514]: position: [0.5868089997548552, 4.582727467348684e-05, 0.0]
+straight towards 0.707000 0.000000
+0.120191008982
+[INFO] [1528239022.116839]: position: [0.5868089997548552, 4.582727467348684e-05, 0.0]
+straight towards 0.707000 0.000000
+0.120191008982
+[INFO] [1528239022.126958]: position: [0.5868089997548552, 4.582727467348684e-05, 0.0]
+straight towards 0.707000 0.000000
+0.120191008982
+[INFO] [1528239022.136869]: position: [0.5868089997548552, 4.582727467348684e-05, 0.0]
+straight towards 0.707000 0.000000
+0.120191008982
+[INFO] [1528239022.146562]: position: [0.6122260281417917, 1.921061505851284e-05, 0.0]
+straight towards 0.707000 0.000000
+turning towards 0.71 0.90|e: 1.48|g:1.48
+turning towards 0.71 0.90|e: 1.48|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.47|g:1.48
+turning towards 0.71 0.90|e: 1.45|g:1.48
+turning towards 0.71 0.90|e: 1.45|g:1.48
+turning towards 0.71 0.90|e: 1.45|g:1.48
+turning towards 0.71 0.90|e: 1.45|g:1.48
+turning towards 0.71 0.90|e: 1.45|g:1.48
+turning towards 0.71 0.90|e: 1.45|g:1.48
+turning towards 0.71 0.90|e: 1.42|g:1.48
+turning towards 0.71 0.90|e: 1.42|g:1.48
+turning towards 0.71 0.90|e: 1.42|g:1.48
+turning towards 0.71 0.90|e: 1.42|g:1.48
+turning towards 0.71 0.90|e: 1.42|g:1.48
+turning towards 0.71 0.90|e: 1.42|g:1.48
+turning towards 0.71 0.90|e: 1.40|g:1.48
+turning towards 0.71 0.90|e: 1.40|g:1.48
+turning towards 0.71 0.90|e: 1.39|g:1.48
+turning towards 0.71 0.90|e: 1.39|g:1.48
+turning towards 0.71 0.90|e: 1.39|g:1.48
+turning towards 0.71 0.90|e: 1.39|g:1.48
+turning towards 0.71 0.90|e: 1.39|g:1.48
+turning towards 0.71 0.90|e: 1.39|g:1.48
+turning towards 0.71 0.90|e: 1.37|g:1.48
+turning towards 0.71 0.90|e: 1.37|g:1.48
+turning towards 0.71 0.90|e: 1.37|g:1.48
+turning towards 0.71 0.90|e: 1.37|g:1.48
+turning towards 0.71 0.90|e: 1.37|g:1.48
+turning towards 0.71 0.90|e: 1.37|g:1.48
+turning towards 0.71 0.90|e: 1.35|g:1.48
+turning towards 0.71 0.90|e: 1.35|g:1.48
+turning towards 0.71 0.90|e: 1.35|g:1.48
+turning towards 0.71 0.90|e: 1.35|g:1.48
+turning towards 0.71 0.90|e: 1.35|g:1.48
+turning towards 0.71 0.90|e: 1.35|g:1.48
+turning towards 0.71 0.90|e: 1.33|g:1.48
+turning towards 0.71 0.90|e: 1.33|g:1.48
+turning towards 0.71 0.90|e: 1.32|g:1.48
+turning towards 0.71 0.90|e: 1.32|g:1.48
+turning towards 0.71 0.90|e: 1.32|g:1.48
+turning towards 0.71 0.90|e: 1.32|g:1.48
+turning towards 0.71 0.90|e: 1.32|g:1.48
+turning towards 0.71 0.90|e: 1.32|g:1.48
+turning towards 0.71 0.90|e: 1.30|g:1.48
+turning towards 0.71 0.90|e: 1.30|g:1.48
+turning towards 0.71 0.90|e: 1.30|g:1.48
+turning towards 0.71 0.90|e: 1.30|g:1.48
+turning towards 0.71 0.90|e: 1.30|g:1.48
+turning towards 0.71 0.90|e: 1.30|g:1.48
+turning towards 0.71 0.90|e: 1.28|g:1.48
+turning towards 0.71 0.90|e: 1.28|g:1.48
+turning towards 0.71 0.90|e: 1.28|g:1.48
+turning towards 0.71 0.90|e: 1.28|g:1.48
+turning towards 0.71 0.90|e: 1.28|g:1.48
+turning towards 0.71 0.90|e: 1.28|g:1.48
+turning towards 0.71 0.90|e: 1.28|g:1.48
+turning towards 0.71 0.90|e: 1.28|g:1.48
+turning towards 0.71 0.90|e: 1.25|g:1.48
+turning towards 0.71 0.90|e: 1.25|g:1.48
+turning towards 0.71 0.90|e: 1.25|g:1.48
+turning towards 0.71 0.90|e: 1.25|g:1.48
+turning towards 0.71 0.90|e: 1.25|g:1.48
+turning towards 0.71 0.90|e: 1.25|g:1.48
+turning towards 0.71 0.90|e: 1.25|g:1.48
+turning towards 0.71 0.90|e: 1.25|g:1.48
+turning towards 0.71 0.90|e: 1.23|g:1.48
+turning towards 0.71 0.90|e: 1.23|g:1.48
+turning towards 0.71 0.90|e: 1.23|g:1.48
+turning towards 0.71 0.90|e: 1.23|g:1.48
+turning towards 0.71 0.90|e: 1.23|g:1.48
+turning towards 0.71 0.90|e: 1.23|g:1.48
+turning towards 0.71 0.90|e: 1.21|g:1.48
+turning towards 0.71 0.90|e: 1.21|g:1.48
+turning towards 0.71 0.90|e: 1.21|g:1.48
+turning towards 0.71 0.90|e: 1.21|g:1.48
+turning towards 0.71 0.90|e: 1.21|g:1.48
+turning towards 0.71 0.90|e: 1.21|g:1.48
+turning towards 0.71 0.90|e: 1.19|g:1.48
+turning towards 0.71 0.90|e: 1.19|g:1.48
+turning towards 0.71 0.90|e: 1.19|g:1.48
+turning towards 0.71 0.90|e: 1.19|g:1.48
+turning towards 0.71 0.90|e: 1.19|g:1.48
+turning towards 0.71 0.90|e: 1.19|g:1.48
+turning towards 0.71 0.90|e: 1.17|g:1.48
+turning towards 0.71 0.90|e: 1.17|g:1.48
+turning towards 0.71 0.90|e: 1.17|g:1.48
+turning towards 0.71 0.90|e: 1.17|g:1.48
+turning towards 0.71 0.90|e: 1.17|g:1.48
+turning towards 0.71 0.90|e: 1.17|g:1.48
+turning towards 0.71 0.90|e: 1.15|g:1.48
+turning towards 0.71 0.90|e: 1.15|g:1.48
+turning towards 0.71 0.90|e: 1.15|g:1.48
+turning towards 0.71 0.90|e: 1.15|g:1.48
+turning towards 0.71 0.90|e: 1.15|g:1.48
+turning towards 0.71 0.90|e: 1.15|g:1.48
+turning towards 0.71 0.90|e: 1.15|g:1.48
+turning towards 0.71 0.90|e: 1.15|g:1.48
+turning towards 0.71 0.90|e: 1.13|g:1.48
+turning towards 0.71 0.90|e: 1.13|g:1.48
+turning towards 0.71 0.90|e: 1.13|g:1.48
+turning towards 0.71 0.90|e: 1.13|g:1.48
+turning towards 0.71 0.90|e: 1.13|g:1.48
+turning towards 0.71 0.90|e: 1.13|g:1.48
+turning towards 0.71 0.90|e: 1.11|g:1.48
+turning towards 0.71 0.90|e: 1.11|g:1.48
+turning towards 0.71 0.90|e: 1.11|g:1.48
+turning towards 0.71 0.90|e: 1.11|g:1.48
+turning towards 0.71 0.90|e: 1.11|g:1.48
+turning towards 0.71 0.90|e: 1.11|g:1.48
+turning towards 0.71 0.90|e: 1.11|g:1.48
+turning towards 0.71 0.90|e: 1.11|g:1.48
+turning towards 0.71 0.90|e: 1.09|g:1.48
+turning towards 0.71 0.90|e: 1.09|g:1.48
+turning towards 0.71 0.90|e: 1.08|g:1.48
+turning towards 0.71 0.90|e: 1.08|g:1.48
+turning towards 0.71 0.90|e: 1.08|g:1.48
+turning towards 0.71 0.90|e: 1.08|g:1.48
+turning towards 0.71 0.90|e: 1.08|g:1.48
+turning towards 0.71 0.90|e: 1.08|g:1.48
+turning towards 0.71 0.90|e: 1.07|g:1.48
+turning towards 0.71 0.90|e: 1.07|g:1.48
+turning towards 0.71 0.90|e: 1.06|g:1.48
+turning towards 0.71 0.90|e: 1.06|g:1.48
+turning towards 0.71 0.90|e: 1.06|g:1.48
+turning towards 0.71 0.90|e: 1.06|g:1.48
+turning towards 0.71 0.90|e: 1.06|g:1.48
+turning towards 0.71 0.90|e: 1.06|g:1.48
+turning towards 0.71 0.90|e: 1.04|g:1.48
+turning towards 0.71 0.90|e: 1.04|g:1.48
+turning towards 0.71 0.90|e: 1.04|g:1.48
+turning towards 0.71 0.90|e: 1.04|g:1.48
+turning towards 0.71 0.90|e: 1.04|g:1.48
+turning towards 0.71 0.90|e: 1.04|g:1.48
+turning towards 0.71 0.90|e: 1.04|g:1.48
+turning towards 0.71 0.90|e: 1.04|g:1.48
+turning towards 0.71 0.90|e: 1.02|g:1.48
+turning towards 0.71 0.90|e: 1.02|g:1.48
+turning towards 0.71 0.90|e: 1.02|g:1.48
+turning towards 0.71 0.90|e: 1.02|g:1.48
+turning towards 0.71 0.90|e: 1.02|g:1.48
+turning towards 0.71 0.90|e: 1.02|g:1.48
+turning towards 0.71 0.90|e: 1.02|g:1.48
+turning towards 0.71 0.90|e: 1.02|g:1.48
+turning towards 0.71 0.90|e: 1.02|g:1.48
+turning towards 0.71 0.90|e: 1.02|g:1.48
+turning towards 0.71 0.90|e: 1.00|g:1.48
+turning towards 0.71 0.90|e: 1.00|g:1.48
+turning towards 0.71 0.90|e: 1.00|g:1.48
+turning towards 0.71 0.90|e: 1.00|g:1.48
+turning towards 0.71 0.90|e: 1.00|g:1.48
+turning towards 0.71 0.90|e: 1.00|g:1.48
+turning towards 0.71 0.90|e: 1.00|g:1.48
+turning towards 0.71 0.90|e: 0.98|g:1.48
+turning towards 0.71 0.90|e: 0.98|g:1.48
+turning towards 0.71 0.90|e: 0.98|g:1.48
+turning towards 0.71 0.90|e: 0.98|g:1.48
+turning towards 0.71 0.90|e: 0.98|g:1.48
+turning towards 0.71 0.90|e: 0.97|g:1.48
+turning towards 0.71 0.90|e: 0.97|g:1.48
+turning towards 0.71 0.90|e: 0.97|g:1.48
+turning towards 0.71 0.90|e: 0.97|g:1.48
+turning towards 0.71 0.90|e: 0.97|g:1.48
+turning towards 0.71 0.90|e: 0.97|g:1.48
+turning towards 0.71 0.90|e: 0.95|g:1.48
+turning towards 0.71 0.90|e: 0.95|g:1.48
+turning towards 0.71 0.90|e: 0.95|g:1.48
+turning towards 0.71 0.90|e: 0.95|g:1.48
+turning towards 0.71 0.90|e: 0.95|g:1.48
+turning towards 0.71 0.90|e: 0.95|g:1.48
+turning towards 0.71 0.90|e: 0.95|g:1.48
+turning towards 0.71 0.90|e: 0.95|g:1.48
+turning towards 0.71 0.90|e: 0.93|g:1.48
+turning towards 0.71 0.90|e: 0.93|g:1.48
+turning towards 0.71 0.90|e: 0.93|g:1.48
+turning towards 0.71 0.90|e: 0.93|g:1.48
+turning towards 0.71 0.90|e: 0.93|g:1.48
+turning towards 0.71 0.90|e: 0.93|g:1.48
+turning towards 0.71 0.90|e: 0.92|g:1.48
+turning towards 0.71 0.90|e: 0.92|g:1.48
+turning towards 0.71 0.90|e: 0.91|g:1.48
+turning towards 0.71 0.90|e: 0.91|g:1.48
+turning towards 0.71 0.90|e: 0.91|g:1.48
+turning towards 0.71 0.90|e: 0.91|g:1.48
+turning towards 0.71 0.90|e: 0.91|g:1.48
+turning towards 0.71 0.90|e: 0.91|g:1.48
+turning towards 0.71 0.90|e: 0.90|g:1.48
+turning towards 0.71 0.90|e: 0.90|g:1.48
+turning towards 0.71 0.90|e: 0.89|g:1.48
+turning towards 0.71 0.90|e: 0.89|g:1.48
+turning towards 0.71 0.90|e: 0.89|g:1.48
+turning towards 0.71 0.90|e: 0.89|g:1.48
+turning towards 0.71 0.90|e: 0.89|g:1.48
+turning towards 0.71 0.90|e: 0.89|g:1.48
+turning towards 0.71 0.90|e: 0.88|g:1.48
+turning towards 0.71 0.90|e: 0.88|g:1.48
+turning towards 0.71 0.90|e: 0.87|g:1.48
+turning towards 0.71 0.90|e: 0.87|g:1.48
+turning towards 0.71 0.90|e: 0.87|g:1.48
+turning towards 0.71 0.90|e: 0.87|g:1.48
+turning towards 0.71 0.90|e: 0.87|g:1.48
+turning towards 0.71 0.90|e: 0.87|g:1.48
+turning towards 0.71 0.90|e: 0.86|g:1.48
+turning towards 0.71 0.90|e: 0.86|g:1.48
+turning towards 0.71 0.90|e: 0.86|g:1.48
+turning towards 0.71 0.90|e: 0.86|g:1.48
+turning towards 0.71 0.90|e: 0.86|g:1.48
+turning towards 0.71 0.90|e: 0.85|g:1.48
+turning towards 0.71 0.90|e: 0.85|g:1.48
+turning towards 0.71 0.90|e: 0.85|g:1.48
+turning towards 0.71 0.90|e: 0.85|g:1.48
+turning towards 0.71 0.90|e: 0.85|g:1.48
+turning towards 0.71 0.90|e: 0.84|g:1.48
+turning towards 0.71 0.90|e: 0.84|g:1.48
+turning towards 0.71 0.90|e: 0.84|g:1.48
+turning towards 0.71 0.90|e: 0.84|g:1.48
+turning towards 0.71 0.90|e: 0.84|g:1.48
+turning towards 0.71 0.90|e: 0.84|g:1.48
+turning towards 0.71 0.90|e: 0.82|g:1.48
+turning towards 0.71 0.90|e: 0.82|g:1.48
+turning towards 0.71 0.90|e: 0.82|g:1.48
+turning towards 0.71 0.90|e: 0.82|g:1.48
+turning towards 0.71 0.90|e: 0.82|g:1.48
+turning towards 0.71 0.90|e: 0.82|g:1.48
+turning towards 0.71 0.90|e: 0.82|g:1.48
+turning towards 0.71 0.90|e: 0.82|g:1.48
+turning towards 0.71 0.90|e: 0.82|g:1.48
+turning towards 0.71 0.90|e: 0.81|g:1.48
+turning towards 0.71 0.90|e: 0.81|g:1.48
+turning towards 0.71 0.90|e: 0.81|g:1.48
+turning towards 0.71 0.90|e: 0.81|g:1.48
+turning towards 0.71 0.90|e: 0.81|g:1.48
+turning towards 0.71 0.90|e: 0.81|g:1.48
+turning towards 0.71 0.90|e: 0.79|g:1.48
+turning towards 0.71 0.90|e: 0.79|g:1.48
+turning towards 0.71 0.90|e: 0.79|g:1.48
+turning towards 0.71 0.90|e: 0.79|g:1.48
+turning towards 0.71 0.90|e: 0.79|g:1.48
+turning towards 0.71 0.90|e: 0.79|g:1.48
+turning towards 0.71 0.90|e: 0.78|g:1.48
+turning towards 0.71 0.90|e: 0.78|g:1.48
+turning towards 0.71 0.90|e: 0.78|g:1.48
+turning towards 0.71 0.90|e: 0.78|g:1.48
+turning towards 0.71 0.90|e: 0.78|g:1.48
+turning towards 0.71 0.90|e: 0.78|g:1.48
+turning towards 0.71 0.90|e: 0.77|g:1.48
+turning towards 0.71 0.90|e: 0.77|g:1.48
+turning towards 0.71 0.90|e: 0.77|g:1.48
+turning towards 0.71 0.90|e: 0.77|g:1.48
+turning towards 0.71 0.90|e: 0.77|g:1.48
+turning towards 0.71 0.90|e: 0.76|g:1.48
+turning towards 0.71 0.90|e: 0.76|g:1.48
+turning towards 0.71 0.90|e: 0.76|g:1.48
+turning towards 0.71 0.90|e: 0.75|g:1.48
+turning towards 0.71 0.90|e: 0.75|g:1.48
+turning towards 0.71 0.90|e: 0.75|g:1.48
+turning towards 0.71 0.90|e: 0.75|g:1.48
+turning towards 0.71 0.90|e: 0.75|g:1.48
+turning towards 0.71 0.90|e: 0.75|g:1.48
+turning towards 0.71 0.90|e: 0.74|g:1.48
+turning towards 0.71 0.90|e: 0.74|g:1.48
+turning towards 0.71 0.90|e: 0.74|g:1.48
+turning towards 0.71 0.90|e: 0.74|g:1.48
+turning towards 0.71 0.90|e: 0.74|g:1.48
+turning towards 0.71 0.90|e: 0.73|g:1.48
+turning towards 0.71 0.90|e: 0.73|g:1.48
+turning towards 0.71 0.90|e: 0.73|g:1.48
+turning towards 0.71 0.90|e: 0.73|g:1.48
+turning towards 0.71 0.90|e: 0.73|g:1.48
+turning towards 0.71 0.90|e: 0.73|g:1.48
+turning towards 0.71 0.90|e: 0.73|g:1.48
+turning towards 0.71 0.90|e: 0.73|g:1.48
+turning towards 0.71 0.90|e: 0.72|g:1.48
+turning towards 0.71 0.90|e: 0.72|g:1.48
+turning towards 0.71 0.90|e: 0.71|g:1.48
+turning towards 0.71 0.90|e: 0.71|g:1.48
+turning towards 0.71 0.90|e: 0.71|g:1.48
+turning towards 0.71 0.90|e: 0.71|g:1.48
+turning towards 0.71 0.90|e: 0.71|g:1.48
+turning towards 0.71 0.90|e: 0.71|g:1.48
+turning towards 0.71 0.90|e: 0.70|g:1.48
+turning towards 0.71 0.90|e: 0.70|g:1.48
+turning towards 0.71 0.90|e: 0.70|g:1.48
+turning towards 0.71 0.90|e: 0.70|g:1.48
+turning towards 0.71 0.90|e: 0.70|g:1.48
+turning towards 0.71 0.90|e: 0.70|g:1.48
+turning towards 0.71 0.90|e: 0.70|g:1.48
+turning towards 0.71 0.90|e: 0.70|g:1.48
+turning towards 0.71 0.90|e: 0.70|g:1.48
+turning towards 0.71 0.90|e: 0.69|g:1.48
+turning towards 0.71 0.90|e: 0.69|g:1.48
+turning towards 0.71 0.90|e: 0.69|g:1.48
+turning towards 0.71 0.90|e: 0.69|g:1.48
+turning towards 0.71 0.90|e: 0.69|g:1.48
+turning towards 0.71 0.90|e: 0.69|g:1.48
+turning towards 0.71 0.90|e: 0.68|g:1.48
+turning towards 0.71 0.90|e: 0.68|g:1.48
+turning towards 0.71 0.90|e: 0.68|g:1.48
+turning towards 0.71 0.90|e: 0.68|g:1.48
+turning towards 0.71 0.90|e: 0.68|g:1.48
+turning towards 0.71 0.90|e: 0.68|g:1.48
+turning towards 0.71 0.90|e: 0.67|g:1.48
+turning towards 0.71 0.90|e: 0.67|g:1.48
+turning towards 0.71 0.90|e: 0.67|g:1.48
+turning towards 0.71 0.90|e: 0.67|g:1.48
+turning towards 0.71 0.90|e: 0.67|g:1.48
+turning towards 0.71 0.90|e: 0.67|g:1.48
+turning towards 0.71 0.90|e: 0.66|g:1.48
+turning towards 0.71 0.90|e: 0.66|g:1.48
+turning towards 0.71 0.90|e: 0.66|g:1.48
+turning towards 0.71 0.90|e: 0.66|g:1.48
+turning towards 0.71 0.90|e: 0.66|g:1.48
+turning towards 0.71 0.90|e: 0.66|g:1.48
+turning towards 0.71 0.90|e: 0.65|g:1.48
+turning towards 0.71 0.90|e: 0.65|g:1.48
+turning towards 0.71 0.90|e: 0.65|g:1.48
+turning towards 0.71 0.90|e: 0.65|g:1.48
+turning towards 0.71 0.90|e: 0.65|g:1.48
+turning towards 0.71 0.90|e: 0.65|g:1.48
+turning towards 0.71 0.90|e: 0.64|g:1.48
+turning towards 0.71 0.90|e: 0.64|g:1.48
+turning towards 0.71 0.90|e: 0.64|g:1.48
+turning towards 0.71 0.90|e: 0.64|g:1.48
+turning towards 0.71 0.90|e: 0.64|g:1.48
+turning towards 0.71 0.90|e: 0.63|g:1.48
+turning towards 0.71 0.90|e: 0.63|g:1.48
+turning towards 0.71 0.90|e: 0.63|g:1.48
+turning towards 0.71 0.90|e: 0.63|g:1.48
+turning towards 0.71 0.90|e: 0.63|g:1.48
+turning towards 0.71 0.90|e: 0.63|g:1.48
+turning towards 0.71 0.90|e: 0.63|g:1.48
+turning towards 0.71 0.90|e: 0.63|g:1.48
+turning towards 0.71 0.90|e: 0.63|g:1.48
+turning towards 0.71 0.90|e: 0.62|g:1.48
+turning towards 0.71 0.90|e: 0.62|g:1.48
+turning towards 0.71 0.90|e: 0.62|g:1.48
+turning towards 0.71 0.90|e: 0.62|g:1.48
+turning towards 0.71 0.90|e: 0.62|g:1.48
+turning towards 0.71 0.90|e: 0.61|g:1.48
+turning towards 0.71 0.90|e: 0.61|g:1.48
+turning towards 0.71 0.90|e: 0.61|g:1.48
+turning towards 0.71 0.90|e: 0.61|g:1.48
+turning towards 0.71 0.90|e: 0.61|g:1.48
+turning towards 0.71 0.90|e: 0.61|g:1.48
+turning towards 0.71 0.90|e: 0.61|g:1.48
+turning towards 0.71 0.90|e: 0.61|g:1.48
+turning towards 0.71 0.90|e: 0.60|g:1.48
+turning towards 0.71 0.90|e: 0.60|g:1.48
+turning towards 0.71 0.90|e: 0.60|g:1.48
+turning towards 0.71 0.90|e: 0.60|g:1.48
+turning towards 0.71 0.90|e: 0.60|g:1.48
+turning towards 0.71 0.90|e: 0.60|g:1.48
+turning towards 0.71 0.90|e: 0.60|g:1.48
+turning towards 0.71 0.90|e: 0.60|g:1.48
+turning towards 0.71 0.90|e: 0.60|g:1.48
+turning towards 0.71 0.90|e: 0.59|g:1.48
+turning towards 0.71 0.90|e: 0.59|g:1.48
+turning towards 0.71 0.90|e: 0.59|g:1.48
+turning towards 0.71 0.90|e: 0.59|g:1.48
+turning towards 0.71 0.90|e: 0.59|g:1.48
+turning towards 0.71 0.90|e: 0.59|g:1.48
+turning towards 0.71 0.90|e: 0.58|g:1.48
+turning towards 0.71 0.90|e: 0.58|g:1.48
+turning towards 0.71 0.90|e: 0.58|g:1.48
+turning towards 0.71 0.90|e: 0.58|g:1.48
+turning towards 0.71 0.90|e: 0.58|g:1.48
+turning towards 0.71 0.90|e: 0.57|g:1.48
+turning towards 0.71 0.90|e: 0.57|g:1.48
+turning towards 0.71 0.90|e: 0.57|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.56|g:1.48
+turning towards 0.71 0.90|e: 0.55|g:1.48
+turning towards 0.71 0.90|e: 0.55|g:1.48
+turning towards 0.71 0.90|e: 0.55|g:1.48
+turning towards 0.71 0.90|e: 0.55|g:1.48
+turning towards 0.71 0.90|e: 0.55|g:1.48
+turning towards 0.71 0.90|e: 0.55|g:1.48
+turning towards 0.71 0.90|e: 0.54|g:1.48
+turning towards 0.71 0.90|e: 0.54|g:1.48
+turning towards 0.71 0.90|e: 0.54|g:1.48
+turning towards 0.71 0.90|e: 0.54|g:1.48
+turning towards 0.71 0.90|e: 0.54|g:1.48
+turning towards 0.71 0.90|e: 0.54|g:1.48
+turning towards 0.71 0.90|e: 0.53|g:1.48
+turning towards 0.71 0.90|e: 0.53|g:1.48
+turning towards 0.71 0.90|e: 0.53|g:1.48
+turning towards 0.71 0.90|e: 0.53|g:1.48
+turning towards 0.71 0.90|e: 0.53|g:1.48
+turning towards 0.71 0.90|e: 0.52|g:1.48
+turning towards 0.71 0.90|e: 0.52|g:1.48
+turning towards 0.71 0.90|e: 0.52|g:1.48
+turning towards 0.71 0.90|e: 0.52|g:1.48
+turning towards 0.71 0.90|e: 0.52|g:1.48
+turning towards 0.71 0.90|e: 0.52|g:1.48
+turning towards 0.71 0.90|e: 0.52|g:1.48
+turning towards 0.71 0.90|e: 0.52|g:1.48
+turning towards 0.71 0.90|e: 0.52|g:1.48
+turning towards 0.71 0.90|e: 0.51|g:1.48
+turning towards 0.71 0.90|e: 0.51|g:1.48
+turning towards 0.71 0.90|e: 0.51|g:1.48
+turning towards 0.71 0.90|e: 0.51|g:1.48
+turning towards 0.71 0.90|e: 0.51|g:1.48
+turning towards 0.71 0.90|e: 0.50|g:1.48
+turning towards 0.71 0.90|e: 0.50|g:1.48
+turning towards 0.71 0.90|e: 0.50|g:1.48
+turning towards 0.71 0.90|e: 0.50|g:1.48
+turning towards 0.71 0.90|e: 0.50|g:1.48
+turning towards 0.71 0.90|e: 0.50|g:1.48
+turning towards 0.71 0.90|e: 0.50|g:1.48
+turning towards 0.71 0.90|e: 0.50|g:1.48
+turning towards 0.71 0.90|e: 0.49|g:1.48
+turning towards 0.71 0.90|e: 0.49|g:1.48
+turning towards 0.71 0.90|e: 0.49|g:1.48
+turning towards 0.71 0.90|e: 0.49|g:1.48
+turning towards 0.71 0.90|e: 0.49|g:1.48
+turning towards 0.71 0.90|e: 0.49|g:1.48
+turning towards 0.71 0.90|e: 0.49|g:1.48
+turning towards 0.71 0.90|e: 0.49|g:1.48
+turning towards 0.71 0.90|e: 0.49|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.48|g:1.48
+turning towards 0.71 0.90|e: 0.47|g:1.48
+turning towards 0.71 0.90|e: 0.47|g:1.48
+turning towards 0.71 0.90|e: 0.47|g:1.48
+turning towards 0.71 0.90|e: 0.47|g:1.48
+turning towards 0.71 0.90|e: 0.47|g:1.48
+turning towards 0.71 0.90|e: 0.47|g:1.48
+turning towards 0.71 0.90|e: 0.46|g:1.48
+turning towards 0.71 0.90|e: 0.46|g:1.48
+turning towards 0.71 0.90|e: 0.46|g:1.48
+turning towards 0.71 0.90|e: 0.46|g:1.48
+turning towards 0.71 0.90|e: 0.46|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.45|g:1.48
+turning towards 0.71 0.90|e: 0.44|g:1.48
+turning towards 0.71 0.90|e: 0.44|g:1.48
+turning towards 0.71 0.90|e: 0.44|g:1.48
+turning towards 0.71 0.90|e: 0.44|g:1.48
+turning towards 0.71 0.90|e: 0.44|g:1.48
+turning towards 0.71 0.90|e: 0.44|g:1.48
+turning towards 0.71 0.90|e: 0.44|g:1.48
+turning towards 0.71 0.90|e: 0.44|g:1.48
+turning towards 0.71 0.90|e: 0.43|g:1.48
+turning towards 0.71 0.90|e: 0.43|g:1.48
+turning towards 0.71 0.90|e: 0.43|g:1.48
+turning towards 0.71 0.90|e: 0.43|g:1.48
+turning towards 0.71 0.90|e: 0.43|g:1.48
+turning towards 0.71 0.90|e: 0.43|g:1.48
+turning towards 0.71 0.90|e: 0.43|g:1.48
+turning towards 0.71 0.90|e: 0.43|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.42|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.41|g:1.48
+turning towards 0.71 0.90|e: 0.40|g:1.48
+turning towards 0.71 0.90|e: 0.40|g:1.48
+turning towards 0.71 0.90|e: 0.40|g:1.48
+turning towards 0.71 0.90|e: 0.40|g:1.48
+turning towards 0.71 0.90|e: 0.40|g:1.48
+turning towards 0.71 0.90|e: 0.40|g:1.48
+turning towards 0.71 0.90|e: 0.40|g:1.48
+turning towards 0.71 0.90|e: 0.40|g:1.48
+turning towards 0.71 0.90|e: 0.40|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.39|g:1.48
+turning towards 0.71 0.90|e: 0.38|g:1.48
+turning towards 0.71 0.90|e: 0.38|g:1.48
+turning towards 0.71 0.90|e: 0.38|g:1.48
+turning towards 0.71 0.90|e: 0.38|g:1.48
+turning towards 0.71 0.90|e: 0.38|g:1.48
+turning towards 0.71 0.90|e: 0.38|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.37|g:1.48
+turning towards 0.71 0.90|e: 0.36|g:1.48
+turning towards 0.71 0.90|e: 0.36|g:1.48
+turning towards 0.71 0.90|e: 0.36|g:1.48
+turning towards 0.71 0.90|e: 0.36|g:1.48
+turning towards 0.71 0.90|e: 0.36|g:1.48
+turning towards 0.71 0.90|e: 0.36|g:1.48
+turning towards 0.71 0.90|e: 0.36|g:1.48
+turning towards 0.71 0.90|e: 0.36|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.35|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.34|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.33|g:1.48
+turning towards 0.71 0.90|e: 0.32|g:1.48
+turning towards 0.71 0.90|e: 0.32|g:1.48
+turning towards 0.71 0.90|e: 0.32|g:1.48
+turning towards 0.71 0.90|e: 0.32|g:1.48
+turning towards 0.71 0.90|e: 0.32|g:1.48
+turning towards 0.71 0.90|e: 0.32|g:1.48
+turning towards 0.71 0.90|e: 0.32|g:1.48
+turning towards 0.71 0.90|e: 0.32|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.31|g:1.48
+turning towards 0.71 0.90|e: 0.30|g:1.48
+turning towards 0.71 0.90|e: 0.30|g:1.48
+turning towards 0.71 0.90|e: 0.30|g:1.48
+turning towards 0.71 0.90|e: 0.30|g:1.48
+turning towards 0.71 0.90|e: 0.30|g:1.48
+turning towards 0.71 0.90|e: 0.30|g:1.48
+turning towards 0.71 0.90|e: 0.30|g:1.48
+turning towards 0.71 0.90|e: 0.30|g:1.48
+turning towards 0.71 0.90|e: 0.30|g:1.48
+turning towards 0.71 0.90|e: 0.30|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.29|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.28|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.27|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.26|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.25|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.24|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.23|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.22|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.21|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.20|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.19|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.18|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.17|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.16|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.15|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.14|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.13|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.12|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.11|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+turning towards 0.71 0.90|e: 0.10|g:1.48
+[INFO] [1528239033.076864]: position: [0.6417328455950595, -0.004335700625924199, 0.0]
+0.906687851948
+[INFO] [1528239033.078681]: position: [0.6417328455950595, -0.004335700625924199, 0.0]
+straight towards 0.707000 0.900000
+0.906687851948
+[INFO] [1528239033.086402]: position: [0.6417328455950595, -0.004335700625924199, 0.0]
+straight towards 0.707000 0.900000
+0.906687851948
+[INFO] [1528239033.096545]: position: [0.641716571097371, -0.004419425658365399, 0.0]
+straight towards 0.707000 0.900000
+0.906772531343
+[INFO] [1528239033.106529]: position: [0.641716571097371, -0.004419425658365399, 0.0]
+straight towards 0.707000 0.900000
+0.906772531343
+[INFO] [1528239033.116624]: position: [0.641716571097371, -0.004419425658365399, 0.0]
+straight towards 0.707000 0.900000
+0.906772531343
+[INFO] [1528239033.126515]: position: [0.641716571097371, -0.004419425658365399, 0.0]
+straight towards 0.707000 0.900000
+0.906772531343
+[INFO] [1528239033.136561]: position: [0.641716571097371, -0.004419425658365399, 0.0]
+straight towards 0.707000 0.900000
+0.906772531343
+[INFO] [1528239033.146520]: position: [0.641716571097371, -0.004419425658365399, 0.0]
+straight towards 0.707000 0.900000
+0.906772531343
+[INFO] [1528239033.156559]: position: [0.641716571097371, -0.004419425658365399, 0.0]
+straight towards 0.707000 0.900000
+0.906772531343
+[INFO] [1528239033.166474]: position: [0.641716571097371, -0.004419425658365399, 0.0]
+straight towards 0.707000 0.900000
+0.906772531343
+[INFO] [1528239033.176516]: position: [0.6443038202416058, 0.009066666659982809, 0.0]
+straight towards 0.707000 0.900000
+0.893136616321
+[INFO] [1528239033.186389]: position: [0.6443038202416058, 0.009066666659982809, 0.0]
+straight towards 0.707000 0.900000
+0.893136616321
+[INFO] [1528239033.196589]: position: [0.6459544991938616, 0.01769528063801376, 0.0]
+straight towards 0.707000 0.900000
+0.8844140269
+[INFO] [1528239033.206490]: position: [0.6459544991938616, 0.01769528063801376, 0.0]
+straight towards 0.707000 0.900000
+0.8844140269
+[INFO] [1528239033.216561]: position: [0.6459544991938616, 0.01769528063801376, 0.0]
+straight towards 0.707000 0.900000
+0.8844140269
+[INFO] [1528239033.226532]: position: [0.6459544991938616, 0.01769528063801376, 0.0]
+straight towards 0.707000 0.900000
+0.8844140269
+[INFO] [1528239033.236599]: position: [0.6459544991938616, 0.01769528063801376, 0.0]
+straight towards 0.707000 0.900000
+0.8844140269
+[INFO] [1528239033.246548]: position: [0.6459544991938616, 0.01769528063801376, 0.0]
+straight towards 0.707000 0.900000
+0.8844140269
+[INFO] [1528239033.256557]: position: [0.6504290446591376, 0.041240964196945055, 0.0]
+straight towards 0.707000 0.900000
+0.86062033125
+[INFO] [1528239033.266574]: position: [0.6504290446591376, 0.041240964196945055, 0.0]
+straight towards 0.707000 0.900000
+0.86062033125
+[INFO] [1528239033.276514]: position: [0.6517373529178361, 0.04819826364783723, 0.0]
+straight towards 0.707000 0.900000
+0.853592501265
+[INFO] [1528239033.286452]: position: [0.6517373529178361, 0.04819826364783723, 0.0]
+straight towards 0.707000 0.900000
+0.853592501265
+[INFO] [1528239033.296500]: position: [0.6517373529178361, 0.04819826364783723, 0.0]
+straight towards 0.707000 0.900000
+0.853592501265
+[INFO] [1528239033.306525]: position: [0.6517373529178361, 0.04819826364783723, 0.0]
+straight towards 0.707000 0.900000
+0.853592501265
+[INFO] [1528239033.316543]: position: [0.6517373529178361, 0.04819826364783723, 0.0]
+straight towards 0.707000 0.900000
+0.853592501265
+[INFO] [1528239033.326538]: position: [0.6517373529178361, 0.04819826364783723, 0.0]
+straight towards 0.707000 0.900000
+0.853592501265
+[INFO] [1528239033.336557]: position: [0.6562455979214393, 0.07247528020510813, 0.0]
+straight towards 0.707000 0.900000
+0.829079713418
+[INFO] [1528239033.346471]: position: [0.6562455979214393, 0.07247528020510813, 0.0]
+straight towards 0.707000 0.900000
+0.829079713418
+[INFO] [1528239033.356580]: position: [0.6562455979214393, 0.07247528020510813, 0.0]
+straight towards 0.707000 0.900000
+0.829079713418
+[INFO] [1528239033.366701]: position: [0.6562455979214393, 0.07247528020510813, 0.0]
+straight towards 0.707000 0.900000
+0.829079713418
+[INFO] [1528239033.376485]: position: [0.6562455979214393, 0.07247528020510813, 0.0]
+straight towards 0.707000 0.900000
+0.829079713418
+[INFO] [1528239033.386511]: position: [0.6562455979214393, 0.07247528020510813, 0.0]
+straight towards 0.707000 0.900000
+0.829079713418
+[INFO] [1528239033.396540]: position: [0.6609413136344593, 0.09836550344733848, 0.0]
+straight towards 0.707000 0.900000
+0.802956579556
+[INFO] [1528239033.406541]: position: [0.6609413136344593, 0.09836550344733848, 0.0]
+straight towards 0.707000 0.900000
+0.802956579556
+[INFO] [1528239033.416559]: position: [0.6624004007392685, 0.10672569559796266, 0.0]
+straight towards 0.707000 0.900000
+0.794527058242
+[INFO] [1528239033.426543]: position: [0.6624004007392685, 0.10672569559796266, 0.0]
+straight towards 0.707000 0.900000
+0.794527058242
+[INFO] [1528239033.436684]: position: [0.6624004007392685, 0.10672569559796266, 0.0]
+straight towards 0.707000 0.900000
+0.794527058242
+[INFO] [1528239033.446512]: position: [0.6624004007392685, 0.10672569559796266, 0.0]
+straight towards 0.707000 0.900000
+0.794527058242
+[INFO] [1528239033.456492]: position: [0.6624004007392685, 0.10672569559796266, 0.0]
+straight towards 0.707000 0.900000
+0.794527058242
+[INFO] [1528239033.466642]: position: [0.6624004007392685, 0.10672569559796266, 0.0]
+straight towards 0.707000 0.900000
+0.794527058242
+[INFO] [1528239033.476574]: position: [0.6664226077682242, 0.12996342606343048, 0.0]
+straight towards 0.707000 0.900000
+0.77110495392
+[INFO] [1528239033.486536]: position: [0.6664226077682242, 0.12996342606343048, 0.0]
+straight towards 0.707000 0.900000
+0.77110495392
+[INFO] [1528239033.496556]: position: [0.6664226077682242, 0.12996342606343048, 0.0]
+straight towards 0.707000 0.900000
+0.77110495392
+[INFO] [1528239033.506514]: position: [0.6664226077682242, 0.12996342606343048, 0.0]
+straight towards 0.707000 0.900000
+0.77110495392
+[INFO] [1528239033.516548]: position: [0.6664226077682242, 0.12996342606343048, 0.0]
+straight towards 0.707000 0.900000
+0.77110495392
+[INFO] [1528239033.526650]: position: [0.6664226077682242, 0.12996342606343048, 0.0]
+straight towards 0.707000 0.900000
+0.77110495392
+[INFO] [1528239033.536601]: position: [0.6705787095370614, 0.1543032005903563, 0.0]
+straight towards 0.707000 0.900000
+0.746585713129
+[INFO] [1528239033.546526]: position: [0.6705787095370614, 0.1543032005903563, 0.0]
+straight towards 0.707000 0.900000
+0.746585713129
+[INFO] [1528239033.556582]: position: [0.6705787095370614, 0.1543032005903563, 0.0]
+straight towards 0.707000 0.900000
+0.746585713129
+[INFO] [1528239033.566505]: position: [0.6705787095370614, 0.1543032005903563, 0.0]
+straight towards 0.707000 0.900000
+0.746585713129
+[INFO] [1528239033.576583]: position: [0.6705787095370614, 0.1543032005903563, 0.0]
+straight towards 0.707000 0.900000
+0.746585713129
+[INFO] [1528239033.586388]: position: [0.6705787095370614, 0.1543032005903563, 0.0]
+straight towards 0.707000 0.900000
+0.746585713129
+[INFO] [1528239033.596494]: position: [0.6745933964301968, 0.1785802534422274, 0.0]
+straight towards 0.707000 0.900000
+0.722147241689
+[INFO] [1528239033.606517]: position: [0.6745933964301968, 0.1785802534422274, 0.0]
+straight towards 0.707000 0.900000
+0.722147241689
+[INFO] [1528239033.616556]: position: [0.6745933964301968, 0.1785802534422274, 0.0]
+straight towards 0.707000 0.900000
+0.722147241689
+[INFO] [1528239033.626537]: position: [0.6745933964301968, 0.1785802534422274, 0.0]
+straight towards 0.707000 0.900000
+0.722147241689
+[INFO] [1528239033.636540]: position: [0.6745933964301968, 0.1785802534422274, 0.0]
+straight towards 0.707000 0.900000
+0.722147241689
+[INFO] [1528239033.646526]: position: [0.6745933964301968, 0.1785802534422274, 0.0]
+straight towards 0.707000 0.900000
+0.722147241689
+[INFO] [1528239033.656576]: position: [0.6785590976161496, 0.2030381840462458, 0.0]
+straight towards 0.707000 0.900000
+0.697541868153
+[INFO] [1528239033.666502]: position: [0.6785590976161496, 0.2030381840462458, 0.0]
+straight towards 0.707000 0.900000
+0.697541868153
+[INFO] [1528239033.676872]: position: [0.6785590976161496, 0.2030381840462458, 0.0]
+straight towards 0.707000 0.900000
+0.697541868153
+[INFO] [1528239033.686440]: position: [0.6785590976161496, 0.2030381840462458, 0.0]
+straight towards 0.707000 0.900000
+0.697541868153
+[INFO] [1528239033.696581]: position: [0.6785590976161496, 0.2030381840462458, 0.0]
+straight towards 0.707000 0.900000
+0.697541868153
+[INFO] [1528239033.706585]: position: [0.6785590976161496, 0.2030381840462458, 0.0]
+straight towards 0.707000 0.900000
+0.697541868153
+[INFO] [1528239033.716651]: position: [0.6823981178253667, 0.22738680846584342, 0.0]
+straight towards 0.707000 0.900000
+0.673062967361
+[INFO] [1528239033.726597]: position: [0.6823981178253667, 0.22738680846584342, 0.0]
+straight towards 0.707000 0.900000
+0.673062967361
+[INFO] [1528239033.736589]: position: [0.6836581238655849, 0.2356499187113836, 0.0]
+straight towards 0.707000 0.900000
+0.664760012102
+[INFO] [1528239033.746653]: position: [0.6836581238655849, 0.2356499187113836, 0.0]
+straight towards 0.707000 0.900000
+0.664760012102
+[INFO] [1528239033.756600]: position: [0.6836581238655849, 0.2356499187113836, 0.0]
+straight towards 0.707000 0.900000
+0.664760012102
+[INFO] [1528239033.766443]: position: [0.6836581238655849, 0.2356499187113836, 0.0]
+straight towards 0.707000 0.900000
+0.664760012102
+[INFO] [1528239033.776464]: position: [0.6836581238655849, 0.2356499187113836, 0.0]
+straight towards 0.707000 0.900000
+0.664760012102
+[INFO] [1528239033.786415]: position: [0.6836581238655849, 0.2356499187113836, 0.0]
+straight towards 0.707000 0.900000
+0.664760012102
+[INFO] [1528239033.796444]: position: [0.6873461978745086, 0.25997873117987774, 0.0]
+straight towards 0.707000 0.900000
+0.640322962637
+[INFO] [1528239033.806526]: position: [0.6873461978745086, 0.25997873117987774, 0.0]
+straight towards 0.707000 0.900000
+0.640322962637
+[INFO] [1528239033.816540]: position: [0.6873461978745086, 0.25997873117987774, 0.0]
+straight towards 0.707000 0.900000
+0.640322962637
+[INFO] [1528239033.826444]: position: [0.6873461978745086, 0.25997873117987774, 0.0]
+straight towards 0.707000 0.900000
+0.640322962637
+[INFO] [1528239033.836398]: position: [0.6873461978745086, 0.25997873117987774, 0.0]
+straight towards 0.707000 0.900000
+0.640322962637
+[INFO] [1528239033.846517]: position: [0.6873461978745086, 0.25997873117987774, 0.0]
+straight towards 0.707000 0.900000
+0.640322962637
+[INFO] [1528239033.856607]: position: [0.6910463445529073, 0.28473699070973485, 0.0]
+straight towards 0.707000 0.900000
+0.615469812195
+[INFO] [1528239033.866545]: position: [0.6910463445529073, 0.28473699070973485, 0.0]
+straight towards 0.707000 0.900000
+0.615469812195
+[INFO] [1528239033.876539]: position: [0.6922258213395267, 0.29275343418603816, 0.0]
+straight towards 0.707000 0.900000
+0.607426265524
+[INFO] [1528239033.886508]: position: [0.6922258213395267, 0.29275343418603816, 0.0]
+straight towards 0.707000 0.900000
+0.607426265524
+[INFO] [1528239033.896559]: position: [0.6922258213395267, 0.29275343418603816, 0.0]
+straight towards 0.707000 0.900000
+0.607426265524
+[INFO] [1528239033.906531]: position: [0.6922258213395267, 0.29275343418603816, 0.0]
+straight towards 0.707000 0.900000
+0.607426265524
+[INFO] [1528239033.916555]: position: [0.6922258213395267, 0.29275343418603816, 0.0]
+straight towards 0.707000 0.900000
+0.607426265524
+[INFO] [1528239033.926510]: position: [0.6922258213395267, 0.29275343418603816, 0.0]
+straight towards 0.707000 0.900000
+0.607426265524
+[INFO] [1528239033.936954]: position: [0.6958339576570709, 0.3173959748831052, 0.0]
+straight towards 0.707000 0.900000
+0.582711018073
+[INFO] [1528239033.946570]: position: [0.6958339576570709, 0.3173959748831052, 0.0]
+straight towards 0.707000 0.900000
+0.582711018073
+[INFO] [1528239033.956542]: position: [0.6970264164183463, 0.325712187452036, 0.0]
+straight towards 0.707000 0.900000
+0.574374410999
+[INFO] [1528239033.966624]: position: [0.6970264164183463, 0.325712187452036, 0.0]
+straight towards 0.707000 0.900000
+0.574374410999
+[INFO] [1528239033.976573]: position: [0.6970264164183463, 0.325712187452036, 0.0]
+straight towards 0.707000 0.900000
+0.574374410999
+[INFO] [1528239033.986564]: position: [0.6970264164183463, 0.325712187452036, 0.0]
+straight towards 0.707000 0.900000
+0.574374410999
+[INFO] [1528239033.996594]: position: [0.6970264164183463, 0.325712187452036, 0.0]
+straight towards 0.707000 0.900000
+0.574374410999
+[INFO] [1528239034.006509]: position: [0.6970264164183463, 0.325712187452036, 0.0]
+straight towards 0.707000 0.900000
+0.574374410999
+[INFO] [1528239034.016684]: position: [0.7005639708023216, 0.35053727887870456, 0.0]
+straight towards 0.707000 0.900000
+0.549500413443
+[INFO] [1528239034.026434]: position: [0.7005639708023216, 0.35053727887870456, 0.0]
+straight towards 0.707000 0.900000
+0.549500413443
+[INFO] [1528239034.036618]: position: [0.7005639708023216, 0.35053727887870456, 0.0]
+straight towards 0.707000 0.900000
+0.549500413443
+[INFO] [1528239034.046772]: position: [0.7005639708023216, 0.35053727887870456, 0.0]
+straight towards 0.707000 0.900000
+0.549500413443
+[INFO] [1528239034.056588]: position: [0.7005639708023216, 0.35053727887870456, 0.0]
+straight towards 0.707000 0.900000
+0.549500413443
+[INFO] [1528239034.066434]: position: [0.7005639708023216, 0.35053727887870456, 0.0]
+straight towards 0.707000 0.900000
+0.549500413443
+[INFO] [1528239034.076489]: position: [0.7040843313171188, 0.37514943270656975, 0.0]
+straight towards 0.707000 0.900000
+0.524858665845
+[INFO] [1528239034.086515]: position: [0.7040843313171188, 0.37514943270656975, 0.0]
+straight towards 0.707000 0.900000
+0.524858665845
+[INFO] [1528239034.096552]: position: [0.7040843313171188, 0.37514943270656975, 0.0]
+straight towards 0.707000 0.900000
+0.524858665845
+[INFO] [1528239034.106495]: position: [0.7040843313171188, 0.37514943270656975, 0.0]
+straight towards 0.707000 0.900000
+0.524858665845
+[INFO] [1528239034.116529]: position: [0.7040843313171188, 0.37514943270656975, 0.0]
+straight towards 0.707000 0.900000
+0.524858665845
+[INFO] [1528239034.126531]: position: [0.7040843313171188, 0.37514943270656975, 0.0]
+straight towards 0.707000 0.900000
+0.524858665845
+[INFO] [1528239034.136596]: position: [0.7075812626039308, 0.39993721138810434, 0.0]
+straight towards 0.707000 0.900000
+0.500063126436
+[INFO] [1528239034.146592]: position: [0.7075812626039308, 0.39993721138810434, 0.0]
+straight towards 0.707000 0.900000
+0.500063126436
+[INFO] [1528239034.156691]: position: [0.7075812626039308, 0.39993721138810434, 0.0]
+straight towards 0.707000 0.900000
+0.500063126436
+[INFO] [1528239034.166480]: position: [0.7075812626039308, 0.39993721138810434, 0.0]
+straight towards 0.707000 0.900000
+0.500063126436
+[INFO] [1528239034.176940]: position: [0.7075812626039308, 0.39993721138810434, 0.0]
+straight towards 0.707000 0.900000
+0.500063126436
+[INFO] [1528239034.186650]: position: [0.7075812626039308, 0.39993721138810434, 0.0]
+straight towards 0.707000 0.900000
+0.500063126436
+[INFO] [1528239034.196608]: position: [0.711029323729671, 0.4248179453438777, 0.0]
+straight towards 0.707000 0.900000
+0.475199137749
+[INFO] [1528239034.206509]: position: [0.711029323729671, 0.4248179453438777, 0.0]
+straight towards 0.707000 0.900000
+0.475199137749
+[INFO] [1528239034.216528]: position: [0.711029323729671, 0.4248179453438777, 0.0]
+straight towards 0.707000 0.900000
+0.475199137749
+[INFO] [1528239034.226541]: position: [0.711029323729671, 0.4248179453438777, 0.0]
+straight towards 0.707000 0.900000
+0.475199137749
+[INFO] [1528239034.236545]: position: [0.711029323729671, 0.4248179453438777, 0.0]
+straight towards 0.707000 0.900000
+0.475199137749
+[INFO] [1528239034.246467]: position: [0.711029323729671, 0.4248179453438777, 0.0]
+straight towards 0.707000 0.900000
+0.475199137749
+[INFO] [1528239034.256568]: position: [0.7144759971411464, 0.4499141205976055, 0.0]
+straight towards 0.707000 0.900000
+0.450147963864
+[INFO] [1528239034.266585]: position: [0.7144759971411464, 0.4499141205976055, 0.0]
+straight towards 0.707000 0.900000
+0.450147963864
+[INFO] [1528239034.276662]: position: [0.7155815928342102, 0.45815627798795755, 0.0]
+straight towards 0.707000 0.900000
+0.441927051013
+[INFO] [1528239034.286568]: position: [0.7155815928342102, 0.45815627798795755, 0.0]
+straight towards 0.707000 0.900000
+0.441927051013
+[INFO] [1528239034.296660]: position: [0.7155815928342102, 0.45815627798795755, 0.0]
+straight towards 0.707000 0.900000
+0.441927051013
+[INFO] [1528239034.306515]: position: [0.7155815928342102, 0.45815627798795755, 0.0]
+straight towards 0.707000 0.900000
+0.441927051013
+[INFO] [1528239034.316557]: position: [0.7155815928342102, 0.45815627798795755, 0.0]
+straight towards 0.707000 0.900000
+0.441927051013
+[INFO] [1528239034.326468]: position: [0.7155815928342102, 0.45815627798795755, 0.0]
+straight towards 0.707000 0.900000
+0.441927051013
+[INFO] [1528239034.336548]: position: [0.7189240643040583, 0.48300838735185836, 0.0]
+straight towards 0.707000 0.900000
+0.417162064824
+[INFO] [1528239034.346535]: position: [0.7189240643040583, 0.48300838735185836, 0.0]
+straight towards 0.707000 0.900000
+0.417162064824
+[INFO] [1528239034.356546]: position: [0.7189240643040583, 0.48300838735185836, 0.0]
+straight towards 0.707000 0.900000
+0.417162064824
+[INFO] [1528239034.366557]: position: [0.7189240643040583, 0.48300838735185836, 0.0]
+straight towards 0.707000 0.900000
+0.417162064824
+[INFO] [1528239034.376610]: position: [0.7189240643040583, 0.48300838735185836, 0.0]
+straight towards 0.707000 0.900000
+0.417162064824
+[INFO] [1528239034.386505]: position: [0.7189240643040583, 0.48300838735185836, 0.0]
+straight towards 0.707000 0.900000
+0.417162064824
+[INFO] [1528239034.396586]: position: [0.722257429513461, 0.5079907975814901, 0.0]
+straight towards 0.707000 0.900000
+0.39230600803
+[INFO] [1528239034.406511]: position: [0.722257429513461, 0.5079907975814901, 0.0]
+straight towards 0.707000 0.900000
+0.39230600803
+[INFO] [1528239034.416593]: position: [0.722257429513461, 0.5079907975814901, 0.0]
+straight towards 0.707000 0.900000
+0.39230600803
+[INFO] [1528239034.426551]: position: [0.722257429513461, 0.5079907975814901, 0.0]
+straight towards 0.707000 0.900000
+0.39230600803
+[INFO] [1528239034.436526]: position: [0.722257429513461, 0.5079907975814901, 0.0]
+straight towards 0.707000 0.900000
+0.39230600803
+[INFO] [1528239034.446537]: position: [0.722257429513461, 0.5079907975814901, 0.0]
+straight towards 0.707000 0.900000
+0.39230600803
+[INFO] [1528239034.456541]: position: [0.7256314970911356, 0.5333119684563333, 0.0]
+straight towards 0.707000 0.900000
+0.367161061608
+[INFO] [1528239034.466542]: position: [0.7256314970911356, 0.5333119684563333, 0.0]
+straight towards 0.707000 0.900000
+0.367161061608
+[INFO] [1528239034.476609]: position: [0.7256314970911356, 0.5333119684563333, 0.0]
+straight towards 0.707000 0.900000
+0.367161061608
+[INFO] [1528239034.486487]: position: [0.7256314970911356, 0.5333119684563333, 0.0]
+straight towards 0.707000 0.900000
+0.367161061608
+[INFO] [1528239034.496576]: position: [0.7256314970911356, 0.5333119684563333, 0.0]
+straight towards 0.707000 0.900000
+0.367161061608
+[INFO] [1528239034.506518]: position: [0.7256314970911356, 0.5333119684563333, 0.0]
+straight towards 0.707000 0.900000
+0.367161061608
+[INFO] [1528239034.516567]: position: [0.7289002162636969, 0.5581738857261853, 0.0]
+straight towards 0.707000 0.900000
+0.342526950578
+[INFO] [1528239034.526588]: position: [0.7289002162636969, 0.5581738857261853, 0.0]
+straight towards 0.707000 0.900000
+0.342526950578
+[INFO] [1528239034.536893]: position: [0.7289002162636969, 0.5581738857261853, 0.0]
+straight towards 0.707000 0.900000
+0.342526950578
+[INFO] [1528239034.546621]: position: [0.7289002162636969, 0.5581738857261853, 0.0]
+straight towards 0.707000 0.900000
+0.342526950578
+[INFO] [1528239034.556550]: position: [0.7289002162636969, 0.5581738857261853, 0.0]
+straight towards 0.707000 0.900000
+0.342526950578
+[INFO] [1528239034.566399]: position: [0.7289002162636969, 0.5581738857261853, 0.0]
+straight towards 0.707000 0.900000
+0.342526950578
+[INFO] [1528239034.576591]: position: [0.732245398866593, 0.5834128533185076, 0.0]
+straight towards 0.707000 0.900000
+0.317592115154
+[INFO] [1528239034.586604]: position: [0.732245398866593, 0.5834128533185076, 0.0]
+straight towards 0.707000 0.900000
+0.317592115154
+[INFO] [1528239034.596529]: position: [0.7333457746072024, 0.5918277758495982, 0.0]
+straight towards 0.707000 0.900000
+0.309296329719
+[INFO] [1528239034.606548]: position: [0.7333457746072024, 0.5918277758495982, 0.0]
+straight towards 0.707000 0.900000
+0.309296329719
+[INFO] [1528239034.616437]: position: [0.7333457746072024, 0.5918277758495982, 0.0]
+straight towards 0.707000 0.900000
+0.309296329719
+[INFO] [1528239034.626423]: position: [0.7333457746072024, 0.5918277758495982, 0.0]
+straight towards 0.707000 0.900000
+0.309296329719
+[INFO] [1528239034.636445]: position: [0.7333457746072024, 0.5918277758495982, 0.0]
+straight towards 0.707000 0.900000
+0.309296329719
+[INFO] [1528239034.646584]: position: [0.7333457746072024, 0.5918277758495982, 0.0]
+straight towards 0.707000 0.900000
+0.309296329719
+[INFO] [1528239034.656661]: position: [0.7366314342479534, 0.6171605701529683, 0.0]
+straight towards 0.707000 0.900000
+0.284387350232
+[INFO] [1528239034.666511]: position: [0.7366314342479534, 0.6171605701529683, 0.0]
+straight towards 0.707000 0.900000
+0.284387350232
+[INFO] [1528239034.676696]: position: [0.7376895404469582, 0.6254089585746834, 0.0]
+straight towards 0.707000 0.900000
+0.276300720093
+[INFO] [1528239034.686459]: position: [0.7376895404469582, 0.6254089585746834, 0.0]
+straight towards 0.707000 0.900000
+0.276300720093
+[INFO] [1528239034.696461]: position: [0.7376895404469582, 0.6254089585746834, 0.0]
+straight towards 0.707000 0.900000
+0.276300720093
+[INFO] [1528239034.706529]: position: [0.7376895404469582, 0.6254089585746834, 0.0]
+straight towards 0.707000 0.900000
+0.276300720093
+[INFO] [1528239034.716569]: position: [0.7376895404469582, 0.6254089585746834, 0.0]
+straight towards 0.707000 0.900000
+0.276300720093
+[INFO] [1528239034.726589]: position: [0.7376895404469582, 0.6254089585746834, 0.0]
+straight towards 0.707000 0.900000
+0.276300720093
+[INFO] [1528239034.737028]: position: [0.7409049424408463, 0.6505788051485635, 0.0]
+straight towards 0.707000 0.900000
+0.251715072181
+[INFO] [1528239034.746621]: position: [0.7409049424408463, 0.6505788051485635, 0.0]
+straight towards 0.707000 0.900000
+0.251715072181
+[INFO] [1528239034.756656]: position: [0.7409049424408463, 0.6505788051485635, 0.0]
+straight towards 0.707000 0.900000
+0.251715072181
+[INFO] [1528239034.766501]: position: [0.7409049424408463, 0.6505788051485635, 0.0]
+straight towards 0.707000 0.900000
+0.251715072181
+[INFO] [1528239034.776532]: position: [0.7409049424408463, 0.6505788051485635, 0.0]
+straight towards 0.707000 0.900000
+0.251715072181
+[INFO] [1528239034.786562]: position: [0.7409049424408463, 0.6505788051485635, 0.0]
+straight towards 0.707000 0.900000
+0.251715072181
+[INFO] [1528239034.796573]: position: [0.744123504438289, 0.6760921570067525, 0.0]
+straight towards 0.707000 0.900000
+0.226964483423
+[INFO] [1528239034.806457]: position: [0.744123504438289, 0.6760921570067525, 0.0]
+straight towards 0.707000 0.900000
+0.226964483423
+[INFO] [1528239034.816558]: position: [0.7451473617823707, 0.6844308059097797, 0.0]
+straight towards 0.707000 0.900000
+0.218918474898
+[INFO] [1528239034.826543]: position: [0.7451473617823707, 0.6844308059097797, 0.0]
+straight towards 0.707000 0.900000
+0.218918474898
+[INFO] [1528239034.836582]: position: [0.7451473617823707, 0.6844308059097797, 0.0]
+straight towards 0.707000 0.900000
+0.218918474898
+[INFO] [1528239034.846535]: position: [0.7451473617823707, 0.6844308059097797, 0.0]
+straight towards 0.707000 0.900000
+0.218918474898
+[INFO] [1528239034.856459]: position: [0.7451473617823707, 0.6844308059097797, 0.0]
+straight towards 0.707000 0.900000
+0.218918474898
+[INFO] [1528239034.866504]: position: [0.7451473617823707, 0.6844308059097797, 0.0]
+straight towards 0.707000 0.900000
+0.218918474898
+[INFO] [1528239034.876492]: position: [0.7482177433365723, 0.7096187542908325, 0.0]
+straight towards 0.707000 0.900000
+0.194791994403
+[INFO] [1528239034.886514]: position: [0.7482177433365723, 0.7096187542908325, 0.0]
+straight towards 0.707000 0.900000
+0.194791994403
+[INFO] [1528239034.896884]: position: [0.7482177433365723, 0.7096187542908325, 0.0]
+straight towards 0.707000 0.900000
+0.194791994403
+[INFO] [1528239034.906972]: position: [0.7482177433365723, 0.7096187542908325, 0.0]
+straight towards 0.707000 0.900000
+0.194791994403
+[INFO] [1528239034.916837]: position: [0.7482177433365723, 0.7096187542908325, 0.0]
+straight towards 0.707000 0.900000
+0.194791994403
+[INFO] [1528239034.927172]: position: [0.7482177433365723, 0.7096187542908325, 0.0]
+straight towards 0.707000 0.900000
+0.194791994403
+[INFO] [1528239034.936810]: position: [0.7513115856394273, 0.7351475302931442, 0.0]
+straight towards 0.707000 0.900000
+0.170703993481
+[INFO] [1528239034.946580]: position: [0.7513115856394273, 0.7351475302931442, 0.0]
+straight towards 0.707000 0.900000
+0.170703993481
+[INFO] [1528239034.956682]: position: [0.7513115856394273, 0.7351475302931442, 0.0]
+straight towards 0.707000 0.900000
+0.170703993481
+[INFO] [1528239034.966777]: position: [0.7513115856394273, 0.7351475302931442, 0.0]
+straight towards 0.707000 0.900000
+0.170703993481
+[INFO] [1528239034.976738]: position: [0.7513115856394273, 0.7351475302931442, 0.0]
+straight towards 0.707000 0.900000
+0.170703993481
+[INFO] [1528239034.986519]: position: [0.7513115856394273, 0.7351475302931442, 0.0]
+straight towards 0.707000 0.900000
+0.170703993481
+[INFO] [1528239034.996614]: position: [0.7543989023937471, 0.7605482213302955, 0.0]
+straight towards 0.707000 0.900000
+0.147286980152
+[INFO] [1528239035.006560]: position: [0.7543989023937471, 0.7605482213302955, 0.0]
+straight towards 0.707000 0.900000
+0.147286980152
+[INFO] [1528239035.016607]: position: [0.7554385870581222, 0.7692286185801229, 0.0]
+straight towards 0.707000 0.900000
+0.139454117597
+[INFO] [1528239035.026543]: position: [0.7554385870581222, 0.7692286185801229, 0.0]
+straight towards 0.707000 0.900000
+0.139454117597
+[INFO] [1528239035.036540]: position: [0.7554385870581222, 0.7692286185801229, 0.0]
+straight towards 0.707000 0.900000
+0.139454117597
+[INFO] [1528239035.046497]: position: [0.7554385870581222, 0.7692286185801229, 0.0]
+straight towards 0.707000 0.900000
+0.139454117597
+[INFO] [1528239035.056568]: position: [0.7554385870581222, 0.7692286185801229, 0.0]
+straight towards 0.707000 0.900000
+0.139454117597
+[INFO] [1528239035.066518]: position: [0.7554385870581222, 0.7692286185801229, 0.0]
+straight towards 0.707000 0.900000
+0.139454117597
+[INFO] [1528239035.076499]: position: [0.7584555265713497, 0.794380072731816, 0.0]
+straight towards 0.707000 0.900000
+0.117487191859
+[INFO] [1528239035.086529]: position: [0.7584555265713497, 0.794380072731816, 0.0]
+straight towards 0.707000 0.900000
+0.117487191859
+[INFO] [1528239035.096557]: position: [0.7584555265713497, 0.794380072731816, 0.0]
+straight towards 0.707000 0.900000
+0.117487191859
+[INFO] [1528239035.106536]: position: [0.7584555265713497, 0.794380072731816, 0.0]
+straight towards 0.707000 0.900000
+0.117487191859
+[INFO] [1528239035.116520]: position: [0.7584555265713497, 0.794380072731816, 0.0]
+straight towards 0.707000 0.900000
+0.117487191859
+[INFO] [1528239035.126419]: position: [0.7584555265713497, 0.794380072731816, 0.0]
+straight towards 0.707000 0.900000
+0.117487191859
+[INFO] [1528239035.136715]: position: [0.7615390791369109, 0.8201248606727676, 0.0]
+straight towards 0.707000 0.900000
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.77|g:-2.31
+turning towards 0.00 0.00|e: -3.77|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.76|g:-2.31
+turning towards 0.00 0.00|e: -3.80|g:-2.31
+turning towards 0.00 0.00|e: -3.80|g:-2.31
+turning towards 0.00 0.00|e: -3.82|g:-2.31
+turning towards 0.00 0.00|e: -3.82|g:-2.31
+turning towards 0.00 0.00|e: -3.82|g:-2.31
+turning towards 0.00 0.00|e: -3.82|g:-2.31
+turning towards 0.00 0.00|e: -3.82|g:-2.31
+turning towards 0.00 0.00|e: -3.82|g:-2.31
+turning towards 0.00 0.00|e: -3.88|g:-2.31
+turning towards 0.00 0.00|e: -3.88|g:-2.31
+turning towards 0.00 0.00|e: -3.91|g:-2.31
+turning towards 0.00 0.00|e: -3.91|g:-2.31
+turning towards 0.00 0.00|e: -3.91|g:-2.31
+turning towards 0.00 0.00|e: -3.91|g:-2.31
+turning towards 0.00 0.00|e: -3.91|g:-2.31
+turning towards 0.00 0.00|e: -3.91|g:-2.31
+turning towards 0.00 0.00|e: -3.96|g:-2.31
+turning towards 0.00 0.00|e: -3.96|g:-2.31
+turning towards 0.00 0.00|e: -3.96|g:-2.31
+turning towards 0.00 0.00|e: -3.96|g:-2.31
+turning towards 0.00 0.00|e: -3.96|g:-2.31
+turning towards 0.00 0.00|e: -3.96|g:-2.31
+turning towards 0.00 0.00|e: -4.02|g:-2.31
+turning towards 0.00 0.00|e: -4.02|g:-2.31
+turning towards 0.00 0.00|e: -4.04|g:-2.31
+turning towards 0.00 0.00|e: -4.04|g:-2.31
+turning towards 0.00 0.00|e: -4.04|g:-2.31
+turning towards 0.00 0.00|e: -4.04|g:-2.31
+turning towards 0.00 0.00|e: -4.04|g:-2.31
+turning towards 0.00 0.00|e: -4.04|g:-2.31
+turning towards 0.00 0.00|e: -4.10|g:-2.31
+turning towards 0.00 0.00|e: -4.10|g:-2.31
+turning towards 0.00 0.00|e: -4.10|g:-2.31
+turning towards 0.00 0.00|e: -4.10|g:-2.31
+turning towards 0.00 0.00|e: -4.10|g:-2.31
+turning towards 0.00 0.00|e: -4.10|g:-2.31
+turning towards 0.00 0.00|e: -4.15|g:-2.31
+turning towards 0.00 0.00|e: -4.15|g:-2.31
+turning towards 0.00 0.00|e: -4.15|g:-2.31
+turning towards 0.00 0.00|e: -4.15|g:-2.31
+turning towards 0.00 0.00|e: -4.15|g:-2.31
+turning towards 0.00 0.00|e: -4.15|g:-2.31
+turning towards 0.00 0.00|e: -4.21|g:-2.31
+turning towards 0.00 0.00|e: -4.21|g:-2.31
+turning towards 0.00 0.00|e: -4.21|g:-2.31
+turning towards 0.00 0.00|e: -4.21|g:-2.31
+turning towards 0.00 0.00|e: -4.21|g:-2.31
+turning towards 0.00 0.00|e: -4.21|g:-2.31
+turning towards 0.00 0.00|e: -4.26|g:-2.31
+turning towards 0.00 0.00|e: -4.26|g:-2.31
+turning towards 0.00 0.00|e: -4.28|g:-2.31
+turning towards 0.00 0.00|e: -4.28|g:-2.31
+turning towards 0.00 0.00|e: -4.28|g:-2.31
+turning towards 0.00 0.00|e: -4.28|g:-2.31
+turning towards 0.00 0.00|e: -4.28|g:-2.31
+turning towards 0.00 0.00|e: -4.28|g:-2.31
+turning towards 0.00 0.00|e: -4.34|g:-2.31
+turning towards 0.00 0.00|e: -4.34|g:-2.31
+turning towards 0.00 0.00|e: -4.36|g:-2.31
+turning towards 0.00 0.00|e: -4.36|g:-2.31
+turning towards 0.00 0.00|e: -4.36|g:-2.31
+turning towards 0.00 0.00|e: -4.36|g:-2.31
+turning towards 0.00 0.00|e: -4.36|g:-2.31
+turning towards 0.00 0.00|e: -4.36|g:-2.31
+turning towards 0.00 0.00|e: -4.41|g:-2.31
+turning towards 0.00 0.00|e: -4.41|g:-2.31
+turning towards 0.00 0.00|e: -4.43|g:-2.31
+turning towards 0.00 0.00|e: -4.43|g:-2.31
+turning towards 0.00 0.00|e: -4.43|g:-2.31
+turning towards 0.00 0.00|e: -4.43|g:-2.31
+turning towards 0.00 0.00|e: -4.43|g:-2.31
+turning towards 0.00 0.00|e: -4.43|g:-2.31
+turning towards 0.00 0.00|e: -4.47|g:-2.31
+turning towards 0.00 0.00|e: -4.47|g:-2.31
+turning towards 0.00 0.00|e: -4.49|g:-2.31
+turning towards 0.00 0.00|e: -4.49|g:-2.31
+turning towards 0.00 0.00|e: -4.49|g:-2.31
+turning towards 0.00 0.00|e: -4.49|g:-2.31
+turning towards 0.00 0.00|e: -4.49|g:-2.31
+turning towards 0.00 0.00|e: -4.49|g:-2.31
+turning towards 0.00 0.00|e: -4.54|g:-2.31
+turning towards 0.00 0.00|e: -4.54|g:-2.31
+turning towards 0.00 0.00|e: -4.54|g:-2.31
+turning towards 0.00 0.00|e: -4.54|g:-2.31
+turning towards 0.00 0.00|e: -4.54|g:-2.31
+turning towards 0.00 0.00|e: -4.54|g:-2.31
+turning towards 0.00 0.00|e: -4.59|g:-2.31
+turning towards 0.00 0.00|e: -4.59|g:-2.31
+turning towards 0.00 0.00|e: -4.60|g:-2.31
+turning towards 0.00 0.00|e: -4.60|g:-2.31
+turning towards 0.00 0.00|e: -4.60|g:-2.31
+turning towards 0.00 0.00|e: -4.60|g:-2.31
+turning towards 0.00 0.00|e: -4.60|g:-2.31
+turning towards 0.00 0.00|e: -4.60|g:-2.31
+turning towards 0.00 0.00|e: -4.65|g:-2.31
+turning towards 0.00 0.00|e: -4.65|g:-2.31
+turning towards 0.00 0.00|e: -4.65|g:-2.31
+turning towards 0.00 0.00|e: -4.65|g:-2.31
+turning towards 0.00 0.00|e: -4.65|g:-2.31
+turning towards 0.00 0.00|e: -4.65|g:-2.31
+turning towards 0.00 0.00|e: -4.70|g:-2.31
+turning towards 0.00 0.00|e: -4.70|g:-2.31
+turning towards 0.00 0.00|e: -4.70|g:-2.31
+turning towards 0.00 0.00|e: -4.70|g:-2.31
+turning towards 0.00 0.00|e: -4.70|g:-2.31
+turning towards 0.00 0.00|e: -4.70|g:-2.31
+turning towards 0.00 0.00|e: -4.75|g:-2.31
+turning towards 0.00 0.00|e: -4.75|g:-2.31
+turning towards 0.00 0.00|e: -4.75|g:-2.31
+turning towards 0.00 0.00|e: -4.75|g:-2.31
+turning towards 0.00 0.00|e: -4.75|g:-2.31
+turning towards 0.00 0.00|e: -4.75|g:-2.31
+turning towards 0.00 0.00|e: -4.79|g:-2.31
+turning towards 0.00 0.00|e: -4.79|g:-2.31
+turning towards 0.00 0.00|e: -4.79|g:-2.31
+turning towards 0.00 0.00|e: -4.79|g:-2.31
+turning towards 0.00 0.00|e: -4.79|g:-2.31
+turning towards 0.00 0.00|e: -4.79|g:-2.31
+turning towards 0.00 0.00|e: -4.83|g:-2.31
+turning towards 0.00 0.00|e: -4.83|g:-2.31
+turning towards 0.00 0.00|e: -4.85|g:-2.31
+turning towards 0.00 0.00|e: -4.85|g:-2.31
+turning towards 0.00 0.00|e: -4.85|g:-2.31
+turning towards 0.00 0.00|e: -4.85|g:-2.31
+turning towards 0.00 0.00|e: -4.85|g:-2.31
+turning towards 0.00 0.00|e: -4.85|g:-2.31
+turning towards 0.00 0.00|e: -4.89|g:-2.31
+turning towards 0.00 0.00|e: -4.89|g:-2.31
+turning towards 0.00 0.00|e: -4.89|g:-2.31
+turning towards 0.00 0.00|e: -4.89|g:-2.31
+turning towards 0.00 0.00|e: -4.89|g:-2.31
+turning towards 0.00 0.00|e: -4.89|g:-2.31
+turning towards 0.00 0.00|e: -4.93|g:-2.31
+turning towards 0.00 0.00|e: -4.93|g:-2.31
+turning towards 0.00 0.00|e: -4.94|g:-2.31
+turning towards 0.00 0.00|e: -4.94|g:-2.31
+turning towards 0.00 0.00|e: -4.94|g:-2.31
+turning towards 0.00 0.00|e: -4.94|g:-2.31
+turning towards 0.00 0.00|e: -4.94|g:-2.31
+turning towards 0.00 0.00|e: -4.94|g:-2.31
+turning towards 0.00 0.00|e: -4.99|g:-2.31
+turning towards 0.00 0.00|e: -4.99|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.00|g:-2.31
+turning towards 0.00 0.00|e: -5.07|g:-2.31
+turning towards 0.00 0.00|e: -5.07|g:-2.31
+turning towards 0.00 0.00|e: -5.07|g:-2.31
+turning towards 0.00 0.00|e: -5.07|g:-2.31
+turning towards 0.00 0.00|e: -5.07|g:-2.31
+turning towards 0.00 0.00|e: -5.07|g:-2.31
+turning towards 0.00 0.00|e: -5.11|g:-2.31
+turning towards 0.00 0.00|e: -5.11|g:-2.31
+turning towards 0.00 0.00|e: -5.11|g:-2.31
+turning towards 0.00 0.00|e: -5.11|g:-2.31
+turning towards 0.00 0.00|e: -5.11|g:-2.31
+turning towards 0.00 0.00|e: -5.11|g:-2.31
+turning towards 0.00 0.00|e: -5.14|g:-2.31
+turning towards 0.00 0.00|e: -5.14|g:-2.31
+turning towards 0.00 0.00|e: -5.14|g:-2.31
+turning towards 0.00 0.00|e: -5.14|g:-2.31
+turning towards 0.00 0.00|e: -5.14|g:-2.31
+turning towards 0.00 0.00|e: -5.18|g:-2.31
+turning towards 0.00 0.00|e: -5.18|g:-2.31
+turning towards 0.00 0.00|e: -5.18|g:-2.31
+turning towards 0.00 0.00|e: -5.20|g:-2.31
+turning towards 0.00 0.00|e: -5.20|g:-2.31
+turning towards 0.00 0.00|e: -5.20|g:-2.31
+turning towards 0.00 0.00|e: -5.20|g:-2.31
+turning towards 0.00 0.00|e: -5.20|g:-2.31
+turning towards 0.00 0.00|e: -5.23|g:-2.31
+turning towards 0.00 0.00|e: -5.23|g:-2.31
+turning towards 0.00 0.00|e: -5.23|g:-2.31
+turning towards 0.00 0.00|e: -5.23|g:-2.31
+turning towards 0.00 0.00|e: -5.23|g:-2.31
+turning towards 0.00 0.00|e: -5.23|g:-2.31
+turning towards 0.00 0.00|e: -5.27|g:-2.31
+turning towards 0.00 0.00|e: -5.27|g:-2.31
+turning towards 0.00 0.00|e: -5.27|g:-2.31
+turning towards 0.00 0.00|e: -5.27|g:-2.31
+turning towards 0.00 0.00|e: -5.27|g:-2.31
+turning towards 0.00 0.00|e: -5.27|g:-2.31
+turning towards 0.00 0.00|e: -5.30|g:-2.31
+turning towards 0.00 0.00|e: -5.30|g:-2.31
+turning towards 0.00 0.00|e: -5.30|g:-2.31
+turning towards 0.00 0.00|e: -5.30|g:-2.31
+turning towards 0.00 0.00|e: -5.30|g:-2.31
+turning towards 0.00 0.00|e: -5.30|g:-2.31
+turning towards 0.00 0.00|e: -5.33|g:-2.31
+turning towards 0.00 0.00|e: -5.33|g:-2.31
+turning towards 0.00 0.00|e: -5.34|g:-2.31
+turning towards 0.00 0.00|e: -5.34|g:-2.31
+turning towards 0.00 0.00|e: -5.34|g:-2.31
+turning towards 0.00 0.00|e: -5.34|g:-2.31
+turning towards 0.00 0.00|e: -5.34|g:-2.31
+turning towards 0.00 0.00|e: -5.34|g:-2.31
+turning towards 0.00 0.00|e: -5.38|g:-2.31
+turning towards 0.00 0.00|e: -5.38|g:-2.31
+turning towards 0.00 0.00|e: -5.39|g:-2.31
+turning towards 0.00 0.00|e: -5.39|g:-2.31
+turning towards 0.00 0.00|e: -5.39|g:-2.31
+turning towards 0.00 0.00|e: -5.39|g:-2.31
+turning towards 0.00 0.00|e: -5.39|g:-2.31
+turning towards 0.00 0.00|e: -5.39|g:-2.31
+turning towards 0.00 0.00|e: -5.42|g:-2.31
+turning towards 0.00 0.00|e: -5.42|g:-2.31
+turning towards 0.00 0.00|e: -5.42|g:-2.31
+turning towards 0.00 0.00|e: -5.43|g:-2.31
+turning towards 0.00 0.00|e: -5.43|g:-2.31
+turning towards 0.00 0.00|e: -5.43|g:-2.31
+turning towards 0.00 0.00|e: -5.43|g:-2.31
+turning towards 0.00 0.00|e: -5.43|g:-2.31
+turning towards 0.00 0.00|e: 0.82|g:-2.31
+turning towards 0.00 0.00|e: 0.82|g:-2.31
+turning towards 0.00 0.00|e: 0.82|g:-2.31
+turning towards 0.00 0.00|e: 0.81|g:-2.31
+turning towards 0.00 0.00|e: 0.81|g:-2.31
+turning towards 0.00 0.00|e: 0.81|g:-2.31
+turning towards 0.00 0.00|e: 0.81|g:-2.31
+turning towards 0.00 0.00|e: 0.81|g:-2.31
+turning towards 0.00 0.00|e: 0.81|g:-2.31
+turning towards 0.00 0.00|e: 0.78|g:-2.31
+turning towards 0.00 0.00|e: 0.78|g:-2.31
+turning towards 0.00 0.00|e: 0.78|g:-2.31
+turning towards 0.00 0.00|e: 0.78|g:-2.31
+turning towards 0.00 0.00|e: 0.78|g:-2.31
+turning towards 0.00 0.00|e: 0.75|g:-2.31
+turning towards 0.00 0.00|e: 0.75|g:-2.31
+turning towards 0.00 0.00|e: 0.75|g:-2.31
+turning towards 0.00 0.00|e: 0.75|g:-2.31
+turning towards 0.00 0.00|e: 0.75|g:-2.31
+turning towards 0.00 0.00|e: 0.75|g:-2.31
+turning towards 0.00 0.00|e: 0.75|g:-2.31
+turning towards 0.00 0.00|e: 0.75|g:-2.31
+turning towards 0.00 0.00|e: 0.75|g:-2.31
+turning towards 0.00 0.00|e: 0.74|g:-2.31
+turning towards 0.00 0.00|e: 0.74|g:-2.31
+turning towards 0.00 0.00|e: 0.74|g:-2.31
+turning towards 0.00 0.00|e: 0.74|g:-2.31
+turning towards 0.00 0.00|e: 0.74|g:-2.31
+turning towards 0.00 0.00|e: 0.74|g:-2.31
+turning towards 0.00 0.00|e: 0.73|g:-2.31
+turning towards 0.00 0.00|e: 0.73|g:-2.31
+turning towards 0.00 0.00|e: 0.73|g:-2.31
+turning towards 0.00 0.00|e: 0.73|g:-2.31
+turning towards 0.00 0.00|e: 0.73|g:-2.31
+turning towards 0.00 0.00|e: 0.73|g:-2.31
+turning towards 0.00 0.00|e: 0.72|g:-2.31
+turning towards 0.00 0.00|e: 0.72|g:-2.31
+turning towards 0.00 0.00|e: 0.72|g:-2.31
+turning towards 0.00 0.00|e: 0.72|g:-2.31
+turning towards 0.00 0.00|e: 0.72|g:-2.31
+turning towards 0.00 0.00|e: 0.70|g:-2.31
+turning towards 0.00 0.00|e: 0.70|g:-2.31
+turning towards 0.00 0.00|e: 0.70|g:-2.31
+turning towards 0.00 0.00|e: 0.70|g:-2.31
+turning towards 0.00 0.00|e: 0.70|g:-2.31
+turning towards 0.00 0.00|e: 0.70|g:-2.31
+turning towards 0.00 0.00|e: 0.70|g:-2.31
+turning towards 0.00 0.00|e: 0.70|g:-2.31
+turning towards 0.00 0.00|e: 0.69|g:-2.31
+turning towards 0.00 0.00|e: 0.69|g:-2.31
+turning towards 0.00 0.00|e: 0.69|g:-2.31
+turning towards 0.00 0.00|e: 0.68|g:-2.31
+turning towards 0.00 0.00|e: 0.68|g:-2.31
+turning towards 0.00 0.00|e: 0.68|g:-2.31
+turning towards 0.00 0.00|e: 0.68|g:-2.31
+turning towards 0.00 0.00|e: 0.68|g:-2.31
+turning towards 0.00 0.00|e: 0.67|g:-2.31
+turning towards 0.00 0.00|e: 0.67|g:-2.31
+turning towards 0.00 0.00|e: 0.67|g:-2.31
+turning towards 0.00 0.00|e: 0.67|g:-2.31
+turning towards 0.00 0.00|e: 0.67|g:-2.31
+turning towards 0.00 0.00|e: 0.67|g:-2.31
+turning towards 0.00 0.00|e: 0.67|g:-2.31
+turning towards 0.00 0.00|e: 0.67|g:-2.31
+turning towards 0.00 0.00|e: 0.66|g:-2.31
+turning towards 0.00 0.00|e: 0.66|g:-2.31
+turning towards 0.00 0.00|e: 0.66|g:-2.31
+turning towards 0.00 0.00|e: 0.65|g:-2.31
+turning towards 0.00 0.00|e: 0.65|g:-2.31
+turning towards 0.00 0.00|e: 0.65|g:-2.31
+turning towards 0.00 0.00|e: 0.65|g:-2.31
+turning towards 0.00 0.00|e: 0.65|g:-2.31
+turning towards 0.00 0.00|e: 0.65|g:-2.31
+turning towards 0.00 0.00|e: 0.64|g:-2.31
+turning towards 0.00 0.00|e: 0.64|g:-2.31
+turning towards 0.00 0.00|e: 0.64|g:-2.31
+turning towards 0.00 0.00|e: 0.64|g:-2.31
+turning towards 0.00 0.00|e: 0.64|g:-2.31
+turning towards 0.00 0.00|e: 0.63|g:-2.31
+turning towards 0.00 0.00|e: 0.63|g:-2.31
+turning towards 0.00 0.00|e: 0.63|g:-2.31
+turning towards 0.00 0.00|e: 0.63|g:-2.31
+turning towards 0.00 0.00|e: 0.63|g:-2.31
+turning towards 0.00 0.00|e: 0.63|g:-2.31
+turning towards 0.00 0.00|e: 0.63|g:-2.31
+turning towards 0.00 0.00|e: 0.63|g:-2.31
+turning towards 0.00 0.00|e: 0.63|g:-2.31
+turning towards 0.00 0.00|e: 0.62|g:-2.31
+turning towards 0.00 0.00|e: 0.62|g:-2.31
+turning towards 0.00 0.00|e: 0.62|g:-2.31
+turning towards 0.00 0.00|e: 0.62|g:-2.31
+turning towards 0.00 0.00|e: 0.62|g:-2.31
+turning towards 0.00 0.00|e: 0.62|g:-2.31
+turning towards 0.00 0.00|e: 0.60|g:-2.31
+turning towards 0.00 0.00|e: 0.60|g:-2.31
+turning towards 0.00 0.00|e: 0.60|g:-2.31
+turning towards 0.00 0.00|e: 0.60|g:-2.31
+turning towards 0.00 0.00|e: 0.60|g:-2.31
+turning towards 0.00 0.00|e: 0.60|g:-2.31
+turning towards 0.00 0.00|e: 0.59|g:-2.31
+turning towards 0.00 0.00|e: 0.59|g:-2.31
+turning towards 0.00 0.00|e: 0.59|g:-2.31
+turning towards 0.00 0.00|e: 0.59|g:-2.31
+turning towards 0.00 0.00|e: 0.59|g:-2.31
+turning towards 0.00 0.00|e: 0.59|g:-2.31
+turning towards 0.00 0.00|e: 0.58|g:-2.31
+turning towards 0.00 0.00|e: 0.58|g:-2.31
+turning towards 0.00 0.00|e: 0.58|g:-2.31
+turning towards 0.00 0.00|e: 0.58|g:-2.31
+turning towards 0.00 0.00|e: 0.58|g:-2.31
+turning towards 0.00 0.00|e: 0.57|g:-2.31
+turning towards 0.00 0.00|e: 0.57|g:-2.31
+turning towards 0.00 0.00|e: 0.57|g:-2.31
+turning towards 0.00 0.00|e: 0.57|g:-2.31
+turning towards 0.00 0.00|e: 0.57|g:-2.31
+turning towards 0.00 0.00|e: 0.57|g:-2.31
+turning towards 0.00 0.00|e: 0.57|g:-2.31
+turning towards 0.00 0.00|e: 0.57|g:-2.31
+turning towards 0.00 0.00|e: 0.57|g:-2.31
+turning towards 0.00 0.00|e: 0.56|g:-2.31
+turning towards 0.00 0.00|e: 0.56|g:-2.31
+turning towards 0.00 0.00|e: 0.56|g:-2.31
+turning towards 0.00 0.00|e: 0.56|g:-2.31
+turning towards 0.00 0.00|e: 0.56|g:-2.31
+turning towards 0.00 0.00|e: 0.55|g:-2.31
+turning towards 0.00 0.00|e: 0.55|g:-2.31
+turning towards 0.00 0.00|e: 0.55|g:-2.31
+turning towards 0.00 0.00|e: 0.55|g:-2.31
+turning towards 0.00 0.00|e: 0.55|g:-2.31
+turning towards 0.00 0.00|e: 0.55|g:-2.31
+turning towards 0.00 0.00|e: 0.55|g:-2.31
+turning towards 0.00 0.00|e: 0.55|g:-2.31
+turning towards 0.00 0.00|e: 0.54|g:-2.31
+turning towards 0.00 0.00|e: 0.54|g:-2.31
+turning towards 0.00 0.00|e: 0.54|g:-2.31
+turning towards 0.00 0.00|e: 0.53|g:-2.31
+turning towards 0.00 0.00|e: 0.53|g:-2.31
+turning towards 0.00 0.00|e: 0.53|g:-2.31
+turning towards 0.00 0.00|e: 0.53|g:-2.31
+turning towards 0.00 0.00|e: 0.53|g:-2.31
+turning towards 0.00 0.00|e: 0.53|g:-2.31
+turning towards 0.00 0.00|e: 0.52|g:-2.31
+turning towards 0.00 0.00|e: 0.52|g:-2.31
+turning towards 0.00 0.00|e: 0.52|g:-2.31
+turning towards 0.00 0.00|e: 0.52|g:-2.31
+turning towards 0.00 0.00|e: 0.52|g:-2.31
+turning towards 0.00 0.00|e: 0.52|g:-2.31
+turning towards 0.00 0.00|e: 0.51|g:-2.31
+turning towards 0.00 0.00|e: 0.51|g:-2.31
+turning towards 0.00 0.00|e: 0.51|g:-2.31
+turning towards 0.00 0.00|e: 0.51|g:-2.31
+turning towards 0.00 0.00|e: 0.51|g:-2.31
+turning towards 0.00 0.00|e: 0.51|g:-2.31
+turning towards 0.00 0.00|e: 0.51|g:-2.31
+turning towards 0.00 0.00|e: 0.51|g:-2.31
+turning towards 0.00 0.00|e: 0.51|g:-2.31
+turning towards 0.00 0.00|e: 0.51|g:-2.31
+turning towards 0.00 0.00|e: 0.50|g:-2.31
+turning towards 0.00 0.00|e: 0.50|g:-2.31
+turning towards 0.00 0.00|e: 0.50|g:-2.31
+turning towards 0.00 0.00|e: 0.50|g:-2.31
+turning towards 0.00 0.00|e: 0.50|g:-2.31
+turning towards 0.00 0.00|e: 0.50|g:-2.31
+turning towards 0.00 0.00|e: 0.49|g:-2.31
+turning towards 0.00 0.00|e: 0.49|g:-2.31
+turning towards 0.00 0.00|e: 0.49|g:-2.31
+turning towards 0.00 0.00|e: 0.49|g:-2.31
+turning towards 0.00 0.00|e: 0.49|g:-2.31
+turning towards 0.00 0.00|e: 0.49|g:-2.31
+turning towards 0.00 0.00|e: 0.48|g:-2.31
+turning towards 0.00 0.00|e: 0.48|g:-2.31
+turning towards 0.00 0.00|e: 0.48|g:-2.31
+turning towards 0.00 0.00|e: 0.48|g:-2.31
+turning towards 0.00 0.00|e: 0.48|g:-2.31
+turning towards 0.00 0.00|e: 0.47|g:-2.31
+turning towards 0.00 0.00|e: 0.47|g:-2.31
+turning towards 0.00 0.00|e: 0.47|g:-2.31
+turning towards 0.00 0.00|e: 0.47|g:-2.31
+turning towards 0.00 0.00|e: 0.47|g:-2.31
+turning towards 0.00 0.00|e: 0.47|g:-2.31
+turning towards 0.00 0.00|e: 0.47|g:-2.31
+turning towards 0.00 0.00|e: 0.47|g:-2.31
+turning towards 0.00 0.00|e: 0.47|g:-2.31
+turning towards 0.00 0.00|e: 0.46|g:-2.31
+turning towards 0.00 0.00|e: 0.46|g:-2.31
+turning towards 0.00 0.00|e: 0.46|g:-2.31
+turning towards 0.00 0.00|e: 0.46|g:-2.31
+turning towards 0.00 0.00|e: 0.46|g:-2.31
+turning towards 0.00 0.00|e: 0.46|g:-2.31
+turning towards 0.00 0.00|e: 0.45|g:-2.31
+turning towards 0.00 0.00|e: 0.45|g:-2.31
+turning towards 0.00 0.00|e: 0.45|g:-2.31
+turning towards 0.00 0.00|e: 0.45|g:-2.31
+turning towards 0.00 0.00|e: 0.45|g:-2.31
+turning towards 0.00 0.00|e: 0.45|g:-2.31
+turning towards 0.00 0.00|e: 0.44|g:-2.31
+turning towards 0.00 0.00|e: 0.44|g:-2.31
+turning towards 0.00 0.00|e: 0.44|g:-2.31
+turning towards 0.00 0.00|e: 0.44|g:-2.31
+turning towards 0.00 0.00|e: 0.44|g:-2.31
+turning towards 0.00 0.00|e: 0.43|g:-2.31
+turning towards 0.00 0.00|e: 0.43|g:-2.31
+turning towards 0.00 0.00|e: 0.43|g:-2.31
+turning towards 0.00 0.00|e: 0.43|g:-2.31
+turning towards 0.00 0.00|e: 0.43|g:-2.31
+turning towards 0.00 0.00|e: 0.43|g:-2.31
+turning towards 0.00 0.00|e: 0.43|g:-2.31
+turning towards 0.00 0.00|e: 0.43|g:-2.31
+turning towards 0.00 0.00|e: 0.42|g:-2.31
+turning towards 0.00 0.00|e: 0.42|g:-2.31
+turning towards 0.00 0.00|e: 0.42|g:-2.31
+turning towards 0.00 0.00|e: 0.42|g:-2.31
+turning towards 0.00 0.00|e: 0.42|g:-2.31
+turning towards 0.00 0.00|e: 0.42|g:-2.31
+turning towards 0.00 0.00|e: 0.42|g:-2.31
+turning towards 0.00 0.00|e: 0.42|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.41|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.40|g:-2.31
+turning towards 0.00 0.00|e: 0.39|g:-2.31
+turning towards 0.00 0.00|e: 0.39|g:-2.31
+turning towards 0.00 0.00|e: 0.39|g:-2.31
+turning towards 0.00 0.00|e: 0.39|g:-2.31
+turning towards 0.00 0.00|e: 0.39|g:-2.31
+turning towards 0.00 0.00|e: 0.39|g:-2.31
+turning towards 0.00 0.00|e: 0.39|g:-2.31
+turning towards 0.00 0.00|e: 0.39|g:-2.31
+turning towards 0.00 0.00|e: 0.38|g:-2.31
+turning towards 0.00 0.00|e: 0.38|g:-2.31
+turning towards 0.00 0.00|e: 0.38|g:-2.31
+turning towards 0.00 0.00|e: 0.38|g:-2.31
+turning towards 0.00 0.00|e: 0.38|g:-2.31
+turning towards 0.00 0.00|e: 0.38|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.37|g:-2.31
+turning towards 0.00 0.00|e: 0.36|g:-2.31
+turning towards 0.00 0.00|e: 0.36|g:-2.31
+turning towards 0.00 0.00|e: 0.36|g:-2.31
+turning towards 0.00 0.00|e: 0.36|g:-2.31
+turning towards 0.00 0.00|e: 0.36|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.35|g:-2.31
+turning towards 0.00 0.00|e: 0.34|g:-2.31
+turning towards 0.00 0.00|e: 0.34|g:-2.31
+turning towards 0.00 0.00|e: 0.34|g:-2.31
+turning towards 0.00 0.00|e: 0.34|g:-2.31
+turning towards 0.00 0.00|e: 0.34|g:-2.31
+turning towards 0.00 0.00|e: 0.34|g:-2.31
+turning towards 0.00 0.00|e: 0.34|g:-2.31
+turning towards 0.00 0.00|e: 0.34|g:-2.31
+turning towards 0.00 0.00|e: 0.34|g:-2.31
+turning towards 0.00 0.00|e: 0.33|g:-2.31
+turning towards 0.00 0.00|e: 0.33|g:-2.31
+turning towards 0.00 0.00|e: 0.33|g:-2.31
+turning towards 0.00 0.00|e: 0.33|g:-2.31
+turning towards 0.00 0.00|e: 0.33|g:-2.31
+turning towards 0.00 0.00|e: 0.33|g:-2.31
+turning towards 0.00 0.00|e: 0.33|g:-2.31
+turning towards 0.00 0.00|e: 0.33|g:-2.31
+turning towards 0.00 0.00|e: 0.33|g:-2.31
+turning towards 0.00 0.00|e: 0.33|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.32|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.31|g:-2.31
+turning towards 0.00 0.00|e: 0.30|g:-2.31
+turning towards 0.00 0.00|e: 0.30|g:-2.31
+turning towards 0.00 0.00|e: 0.30|g:-2.31
+turning towards 0.00 0.00|e: 0.30|g:-2.31
+turning towards 0.00 0.00|e: 0.30|g:-2.31
+turning towards 0.00 0.00|e: 0.30|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.29|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.28|g:-2.31
+turning towards 0.00 0.00|e: 0.27|g:-2.31
+turning towards 0.00 0.00|e: 0.27|g:-2.31
+turning towards 0.00 0.00|e: 0.27|g:-2.31
+turning towards 0.00 0.00|e: 0.27|g:-2.31
+turning towards 0.00 0.00|e: 0.27|g:-2.31
+turning towards 0.00 0.00|e: 0.27|g:-2.31
+turning towards 0.00 0.00|e: 0.27|g:-2.31
+turning towards 0.00 0.00|e: 0.27|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.26|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.25|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.24|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.23|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.22|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.21|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.20|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.19|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.18|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.17|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.16|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.15|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.14|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.13|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.12|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.11|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+turning towards 0.00 0.00|e: 0.10|g:-2.31
+[INFO] [1528239045.326540]: position: [0.770708824960271, 0.8712013341337244, 0.0]
+1.16317834293
+[INFO] [1528239045.328329]: position: [0.770708824960271, 0.8712013341337244, 0.0]
+straight towards 0.000000 0.000000
+1.16317834293
+[INFO] [1528239045.336731]: position: [0.770708824960271, 0.8712013341337244, 0.0]
+straight towards 0.000000 0.000000
+1.16317834293
+[INFO] [1528239045.346529]: position: [0.7707403071195715, 0.8712301014542261, 0.0]
+straight towards 0.000000 0.000000
+1.16322074891
+[INFO] [1528239045.356473]: position: [0.7707403071195715, 0.8712301014542261, 0.0]
+straight towards 0.000000 0.000000
+1.16322074891
+[INFO] [1528239045.366582]: position: [0.7707403071195715, 0.8712301014542261, 0.0]
+straight towards 0.000000 0.000000
+1.16322074891
+[INFO] [1528239045.376586]: position: [0.7707403071195715, 0.8712301014542261, 0.0]
+straight towards 0.000000 0.000000
+1.16322074891
+[INFO] [1528239045.386553]: position: [0.7707403071195715, 0.8712301014542261, 0.0]
+straight towards 0.000000 0.000000
+1.16322074891
+[INFO] [1528239045.396621]: position: [0.7707403071195715, 0.8712301014542261, 0.0]
+straight towards 0.000000 0.000000
+1.16322074891
+[INFO] [1528239045.406480]: position: [0.7663670796325778, 0.8672283898407963, 0.0]
+straight towards 0.000000 0.000000
+1.15732604779
+[INFO] [1528239045.416627]: position: [0.7663670796325778, 0.8672283898407963, 0.0]
+straight towards 0.000000 0.000000
+1.15732604779
+[INFO] [1528239045.426483]: position: [0.7663670796325778, 0.8672283898407963, 0.0]
+straight towards 0.000000 0.000000
+1.15732604779
+[INFO] [1528239045.436491]: position: [0.7663670796325778, 0.8672283898407963, 0.0]
+straight towards 0.000000 0.000000
+1.15732604779
+[INFO] [1528239045.446523]: position: [0.7663670796325778, 0.8672283898407963, 0.0]
+straight towards 0.000000 0.000000
+1.15732604779
+[INFO] [1528239045.456983]: position: [0.7663670796325778, 0.8672283898407963, 0.0]
+straight towards 0.000000 0.000000
+1.15732604779
+[INFO] [1528239045.466576]: position: [0.7483681333803975, 0.8507006861753912, 0.0]
+straight towards 0.000000 0.000000
+1.13302538388
+[INFO] [1528239045.476728]: position: [0.7483681333803975, 0.8507006861753912, 0.0]
+straight towards 0.000000 0.000000
+1.13302538388
+[INFO] [1528239045.486650]: position: [0.7483681333803975, 0.8507006861753912, 0.0]
+straight towards 0.000000 0.000000
+1.13302538388
+[INFO] [1528239045.496688]: position: [0.7483681333803975, 0.8507006861753912, 0.0]
+straight towards 0.000000 0.000000
+1.13302538388
+[INFO] [1528239045.506644]: position: [0.7483681333803975, 0.8507006861753912, 0.0]
+straight towards 0.000000 0.000000
+1.13302538388
+[INFO] [1528239045.516544]: position: [0.7483681333803975, 0.8507006861753912, 0.0]
+straight towards 0.000000 0.000000
+1.13302538388
+[INFO] [1528239045.526526]: position: [0.7318583335772073, 0.8356410120146244, 0.0]
+straight towards 0.000000 0.000000
+1.11081615103
+[INFO] [1528239045.536439]: position: [0.7318583335772073, 0.8356410120146244, 0.0]
+straight towards 0.000000 0.000000
+1.11081615103
+[INFO] [1528239045.546399]: position: [0.7318583335772073, 0.8356410120146244, 0.0]
+straight towards 0.000000 0.000000
+1.11081615103
+[INFO] [1528239045.556531]: position: [0.7318583335772073, 0.8356410120146244, 0.0]
+straight towards 0.000000 0.000000
+1.11081615103
+[INFO] [1528239045.566452]: position: [0.7318583335772073, 0.8356410120146244, 0.0]
+straight towards 0.000000 0.000000
+1.11081615103
+[INFO] [1528239045.576576]: position: [0.7318583335772073, 0.8356410120146244, 0.0]
+straight towards 0.000000 0.000000
+1.11081615103
+[INFO] [1528239045.586461]: position: [0.7133950841789831, 0.818799468010408, 0.0]
+straight towards 0.000000 0.000000
+1.08598578027
+[INFO] [1528239045.597099]: position: [0.7133950841789831, 0.818799468010408, 0.0]
+straight towards 0.000000 0.000000
+1.08598578027
+[INFO] [1528239045.606567]: position: [0.7133950841789831, 0.818799468010408, 0.0]
+straight towards 0.000000 0.000000
+1.08598578027
+[INFO] [1528239045.616553]: position: [0.7133950841789831, 0.818799468010408, 0.0]
+straight towards 0.000000 0.000000
+1.08598578027
+[INFO] [1528239045.626613]: position: [0.7133950841789831, 0.818799468010408, 0.0]
+straight towards 0.000000 0.000000
+1.08598578027
+[INFO] [1528239045.636432]: position: [0.7133950841789831, 0.818799468010408, 0.0]
+straight towards 0.000000 0.000000
+1.08598578027
+[INFO] [1528239045.646524]: position: [0.6943028486703048, 0.8012555532297695, 0.0]
+straight towards 0.000000 0.000000
+1.0602202164
+[INFO] [1528239045.656604]: position: [0.6943028486703048, 0.8012555532297695, 0.0]
+straight towards 0.000000 0.000000
+1.0602202164
+[INFO] [1528239045.666585]: position: [0.688146489518913, 0.7954763688586083, 0.0]
+straight towards 0.000000 0.000000
+1.0518213938
+[INFO] [1528239045.676557]: position: [0.688146489518913, 0.7954763688586083, 0.0]
+straight towards 0.000000 0.000000
+1.0518213938
+[INFO] [1528239045.686548]: position: [0.688146489518913, 0.7954763688586083, 0.0]
+straight towards 0.000000 0.000000
+1.0518213938
+[INFO] [1528239045.696542]: position: [0.688146489518913, 0.7954763688586083, 0.0]
+straight towards 0.000000 0.000000
+1.0518213938
+[INFO] [1528239045.706724]: position: [0.688146489518913, 0.7954763688586083, 0.0]
+straight towards 0.000000 0.000000
+1.0518213938
+[INFO] [1528239045.717024]: position: [0.688146489518913, 0.7954763688586083, 0.0]
+straight towards 0.000000 0.000000
+1.0518213938
+[INFO] [1528239045.726693]: position: [0.6712708963408827, 0.7795569234023763, 0.0]
+straight towards 0.000000 0.000000
+1.02874370623
+[INFO] [1528239045.736590]: position: [0.6712708963408827, 0.7795569234023763, 0.0]
+straight towards 0.000000 0.000000
+1.02874370623
+[INFO] [1528239045.746532]: position: [0.6712708963408827, 0.7795569234023763, 0.0]
+straight towards 0.000000 0.000000
+1.02874370623
+[INFO] [1528239045.756577]: position: [0.6712708963408827, 0.7795569234023763, 0.0]
+straight towards 0.000000 0.000000
+1.02874370623
+[INFO] [1528239045.766568]: position: [0.6712708963408827, 0.7795569234023763, 0.0]
+straight towards 0.000000 0.000000
+1.02874370623
+[INFO] [1528239045.776623]: position: [0.6712708963408827, 0.7795569234023763, 0.0]
+straight towards 0.000000 0.000000
+1.02874370623
+[INFO] [1528239045.786515]: position: [0.6531094271508567, 0.7623283559271286, 0.0]
+straight towards 0.000000 0.000000
+1.00384084699
+[INFO] [1528239045.796507]: position: [0.6531094271508567, 0.7623283559271286, 0.0]
+straight towards 0.000000 0.000000
+1.00384084699
+[INFO] [1528239045.806561]: position: [0.6473448630428162, 0.7568176935972197, 0.0]
+straight towards 0.000000 0.000000
+0.995905815351
+[INFO] [1528239045.816622]: position: [0.6473448630428162, 0.7568176935972197, 0.0]
+straight towards 0.000000 0.000000
+0.995905815351
+[INFO] [1528239045.826527]: position: [0.6473448630428162, 0.7568176935972197, 0.0]
+straight towards 0.000000 0.000000
+0.995905815351
+[INFO] [1528239045.836580]: position: [0.6473448630428162, 0.7568176935972197, 0.0]
+straight towards 0.000000 0.000000
+0.995905815351
+[INFO] [1528239045.846666]: position: [0.6473448630428162, 0.7568176935972197, 0.0]
+straight towards 0.000000 0.000000
+0.995905815351
+[INFO] [1528239045.856467]: position: [0.6473448630428162, 0.7568176935972197, 0.0]
+straight towards 0.000000 0.000000
+0.995905815351
+[INFO] [1528239045.866469]: position: [0.6294615560563813, 0.7396682187785504, 0.0]
+straight towards 0.000000 0.000000
+0.971252245518
+[INFO] [1528239045.876482]: position: [0.6294615560563813, 0.7396682187785504, 0.0]
+straight towards 0.000000 0.000000
+0.971252245518
+[INFO] [1528239045.886460]: position: [0.6235122251512776, 0.7339190019998824, 0.0]
+straight towards 0.000000 0.000000
+0.963018481863
+[INFO] [1528239045.896477]: position: [0.6235122251512776, 0.7339190019998824, 0.0]
+straight towards 0.000000 0.000000
+0.963018481863
+[INFO] [1528239045.906492]: position: [0.6235122251512776, 0.7339190019998824, 0.0]
+straight towards 0.000000 0.000000
+0.963018481863
+[INFO] [1528239045.916643]: position: [0.6235122251512776, 0.7339190019998824, 0.0]
+straight towards 0.000000 0.000000
+0.963018481863
+[INFO] [1528239045.926549]: position: [0.6235122251512776, 0.7339190019998824, 0.0]
+straight towards 0.000000 0.000000
+0.963018481863
+[INFO] [1528239045.936465]: position: [0.6235122251512776, 0.7339190019998824, 0.0]
+straight towards 0.000000 0.000000
+0.963018481863
+[INFO] [1528239045.946570]: position: [0.6060587877765293, 0.7169995366626974, 0.0]
+straight towards 0.000000 0.000000
+0.938826709151
+[INFO] [1528239045.956505]: position: [0.6060587877765293, 0.7169995366626974, 0.0]
+straight towards 0.000000 0.000000
+0.938826709151
+[INFO] [1528239045.966481]: position: [0.6060587877765293, 0.7169995366626974, 0.0]
+straight towards 0.000000 0.000000
+0.938826709151
+[INFO] [1528239045.976505]: position: [0.6060587877765293, 0.7169995366626974, 0.0]
+straight towards 0.000000 0.000000
+0.938826709151
+[INFO] [1528239045.986554]: position: [0.6060587877765293, 0.7169995366626974, 0.0]
+straight towards 0.000000 0.000000
+0.938826709151
+[INFO] [1528239045.996465]: position: [0.6060587877765293, 0.7169995366626974, 0.0]
+straight towards 0.000000 0.000000
+0.938826709151
+[INFO] [1528239046.006530]: position: [0.5883834961828005, 0.6996966545610803, 0.0]
+straight towards 0.000000 0.000000
+0.914204871451
+[INFO] [1528239046.016574]: position: [0.5883834961828005, 0.6996966545610803, 0.0]
+straight towards 0.000000 0.000000
+0.914204871451
+[INFO] [1528239046.026543]: position: [0.5883834961828005, 0.6996966545610803, 0.0]
+straight towards 0.000000 0.000000
+0.914204871451
+[INFO] [1528239046.036536]: position: [0.5883834961828005, 0.6996966545610803, 0.0]
+straight towards 0.000000 0.000000
+0.914204871451
+[INFO] [1528239046.046547]: position: [0.5883834961828005, 0.6996966545610803, 0.0]
+straight towards 0.000000 0.000000
+0.914204871451
+[INFO] [1528239046.056491]: position: [0.5883834961828005, 0.6996966545610803, 0.0]
+straight towards 0.000000 0.000000
+0.914204871451
+[INFO] [1528239046.066513]: position: [0.5707292350083777, 0.6823114822089719, 0.0]
+straight towards 0.000000 0.000000
+0.889539666596
+[INFO] [1528239046.076864]: position: [0.5707292350083777, 0.6823114822089719, 0.0]
+straight towards 0.000000 0.000000
+0.889539666596
+[INFO] [1528239046.086796]: position: [0.5648417704063473, 0.6764383858498361, 0.0]
+straight towards 0.000000 0.000000
+0.881257689582
+[INFO] [1528239046.097064]: position: [0.5648417704063473, 0.6764383858498361, 0.0]
+straight towards 0.000000 0.000000
+0.881257689582
+[INFO] [1528239046.106606]: position: [0.5648417704063473, 0.6764383858498361, 0.0]
+straight towards 0.000000 0.000000
+0.881257689582
+[INFO] [1528239046.116680]: position: [0.5648417704063473, 0.6764383858498361, 0.0]
+straight towards 0.000000 0.000000
+0.881257689582
+[INFO] [1528239046.126591]: position: [0.5648417704063473, 0.6764383858498361, 0.0]
+straight towards 0.000000 0.000000
+0.881257689582
+[INFO] [1528239046.136679]: position: [0.5648417704063473, 0.6764383858498361, 0.0]
+straight towards 0.000000 0.000000
+0.881257689582
+[INFO] [1528239046.146534]: position: [0.5473337727259988, 0.6589059253108198, 0.0]
+straight towards 0.000000 0.000000
+0.856581156211
+[INFO] [1528239046.156588]: position: [0.5473337727259988, 0.6589059253108198, 0.0]
+straight towards 0.000000 0.000000
+0.856581156211
+[INFO] [1528239046.166574]: position: [0.5473337727259988, 0.6589059253108198, 0.0]
+straight towards 0.000000 0.000000
+0.856581156211
+[INFO] [1528239046.176422]: position: [0.5473337727259988, 0.6589059253108198, 0.0]
+straight towards 0.000000 0.000000
+0.856581156211
+[INFO] [1528239046.186360]: position: [0.5473337727259988, 0.6589059253108198, 0.0]
+straight towards 0.000000 0.000000
+0.856581156211
+[INFO] [1528239046.196558]: position: [0.5473337727259988, 0.6589059253108198, 0.0]
+straight towards 0.000000 0.000000
+0.856581156211
+[INFO] [1528239046.206497]: position: [0.5298539770316381, 0.6412852264437979, 0.0]
+straight towards 0.000000 0.000000
+0.831860552395
+[INFO] [1528239046.216547]: position: [0.5298539770316381, 0.6412852264437979, 0.0]
+straight towards 0.000000 0.000000
+0.831860552395
+[INFO] [1528239046.226515]: position: [0.5298539770316381, 0.6412852264437979, 0.0]
+straight towards 0.000000 0.000000
+0.831860552395
+[INFO] [1528239046.236952]: position: [0.5298539770316381, 0.6412852264437979, 0.0]
+straight towards 0.000000 0.000000
+0.831860552395
+[INFO] [1528239046.246593]: position: [0.5298539770316381, 0.6412852264437979, 0.0]
+straight towards 0.000000 0.000000
+0.831860552395
+[INFO] [1528239046.256479]: position: [0.5298539770316381, 0.6412852264437979, 0.0]
+straight towards 0.000000 0.000000
+0.831860552395
+[INFO] [1528239046.266550]: position: [0.5122923809531436, 0.6234455839707764, 0.0]
+straight towards 0.000000 0.000000
+0.806924952988
+[INFO] [1528239046.276683]: position: [0.5122923809531436, 0.6234455839707764, 0.0]
+straight towards 0.000000 0.000000
+0.806924952988
+[INFO] [1528239046.286529]: position: [0.5122923809531436, 0.6234455839707764, 0.0]
+straight towards 0.000000 0.000000
+0.806924952988
+[INFO] [1528239046.296591]: position: [0.5122923809531436, 0.6234455839707764, 0.0]
+straight towards 0.000000 0.000000
+0.806924952988
+[INFO] [1528239046.306548]: position: [0.5122923809531436, 0.6234455839707764, 0.0]
+straight towards 0.000000 0.000000
+0.806924952988
+[INFO] [1528239046.316616]: position: [0.5122923809531436, 0.6234455839707764, 0.0]
+straight towards 0.000000 0.000000
+0.806924952988
+[INFO] [1528239046.326536]: position: [0.494868361224244, 0.6055905275709321, 0.0]
+straight towards 0.000000 0.000000
+0.782070701423
+[INFO] [1528239046.336582]: position: [0.494868361224244, 0.6055905275709321, 0.0]
+straight towards 0.000000 0.000000
+0.782070701423
+[INFO] [1528239046.346561]: position: [0.494868361224244, 0.6055905275709321, 0.0]
+straight towards 0.000000 0.000000
+0.782070701423
+[INFO] [1528239046.356994]: position: [0.494868361224244, 0.6055905275709321, 0.0]
+straight towards 0.000000 0.000000
+0.782070701423
+[INFO] [1528239046.366493]: position: [0.494868361224244, 0.6055905275709321, 0.0]
+straight towards 0.000000 0.000000
+0.782070701423
+[INFO] [1528239046.376493]: position: [0.494868361224244, 0.6055905275709321, 0.0]
+straight towards 0.000000 0.000000
+0.782070701423
+[INFO] [1528239046.386557]: position: [0.47742860163556816, 0.5876317613026548, 0.0]
+straight towards 0.000000 0.000000
+0.757132192257
+[INFO] [1528239046.396456]: position: [0.47742860163556816, 0.5876317613026548, 0.0]
+straight towards 0.000000 0.000000
+0.757132192257
+[INFO] [1528239046.406529]: position: [0.47155660668108673, 0.5815638617277323, 0.0]
+straight towards 0.000000 0.000000
+0.748720347374
+[INFO] [1528239046.416524]: position: [0.47155660668108673, 0.5815638617277323, 0.0]
+straight towards 0.000000 0.000000
+0.748720347374
+[INFO] [1528239046.426546]: position: [0.47155660668108673, 0.5815638617277323, 0.0]
+straight towards 0.000000 0.000000
+0.748720347374
+[INFO] [1528239046.436487]: position: [0.47155660668108673, 0.5815638617277323, 0.0]
+straight towards 0.000000 0.000000
+0.748720347374
+[INFO] [1528239046.446534]: position: [0.47155660668108673, 0.5815638617277323, 0.0]
+straight towards 0.000000 0.000000
+0.748720347374
+[INFO] [1528239046.456889]: position: [0.47155660668108673, 0.5815638617277323, 0.0]
+straight towards 0.000000 0.000000
+0.748720347374
+[INFO] [1528239046.466647]: position: [0.4542528120996568, 0.5636515153494304, 0.0]
+straight towards 0.000000 0.000000
+0.72391204442
+[INFO] [1528239046.477106]: position: [0.4542528120996568, 0.5636515153494304, 0.0]
+straight towards 0.000000 0.000000
+0.72391204442
+[INFO] [1528239046.486852]: position: [0.4542528120996568, 0.5636515153494304, 0.0]
+straight towards 0.000000 0.000000
+0.72391204442
+[INFO] [1528239046.496737]: position: [0.4542528120996568, 0.5636515153494304, 0.0]
+straight towards 0.000000 0.000000
+0.72391204442
+[INFO] [1528239046.506627]: position: [0.4542528120996568, 0.5636515153494304, 0.0]
+straight towards 0.000000 0.000000
+0.72391204442
+[INFO] [1528239046.516559]: position: [0.4542528120996568, 0.5636515153494304, 0.0]
+straight towards 0.000000 0.000000
+0.72391204442
+[INFO] [1528239046.526569]: position: [0.4368281764273822, 0.5455003074252658, 0.0]
+straight towards 0.000000 0.000000
+0.698848653946
+[INFO] [1528239046.536532]: position: [0.4368281764273822, 0.5455003074252658, 0.0]
+straight towards 0.000000 0.000000
+0.698848653946
+[INFO] [1528239046.546534]: position: [0.4310575698957885, 0.5394532662968407, 0.0]
+straight towards 0.000000 0.000000
+0.690521871546
+[INFO] [1528239046.556562]: position: [0.4310575698957885, 0.5394532662968407, 0.0]
+straight towards 0.000000 0.000000
+0.690521871546
+[INFO] [1528239046.566592]: position: [0.4310575698957885, 0.5394532662968407, 0.0]
+straight towards 0.000000 0.000000
+0.690521871546
+[INFO] [1528239046.576539]: position: [0.4310575698957885, 0.5394532662968407, 0.0]
+straight towards 0.000000 0.000000
+0.690521871546
+[INFO] [1528239046.586507]: position: [0.4310575698957885, 0.5394532662968407, 0.0]
+straight towards 0.000000 0.000000
+0.690521871546
+[INFO] [1528239046.596850]: position: [0.4310575698957885, 0.5394532662968407, 0.0]
+straight towards 0.000000 0.000000
+0.690521871546
+[INFO] [1528239046.606545]: position: [0.4137163084309482, 0.52128129066091, 0.0]
+straight towards 0.000000 0.000000
+0.665503845109
+[INFO] [1528239046.616435]: position: [0.4137163084309482, 0.52128129066091, 0.0]
+straight towards 0.000000 0.000000
+0.665503845109
+[INFO] [1528239046.626596]: position: [0.40781691820518196, 0.5150624570881754, 0.0]
+straight towards 0.000000 0.000000
+0.656965732345
+[INFO] [1528239046.636558]: position: [0.40781691820518196, 0.5150624570881754, 0.0]
+straight towards 0.000000 0.000000
+0.656965732345
+[INFO] [1528239046.646520]: position: [0.40781691820518196, 0.5150624570881754, 0.0]
+straight towards 0.000000 0.000000
+0.656965732345
+[INFO] [1528239046.656527]: position: [0.40781691820518196, 0.5150624570881754, 0.0]
+straight towards 0.000000 0.000000
+0.656965732345
+[INFO] [1528239046.666420]: position: [0.40781691820518196, 0.5150624570881754, 0.0]
+straight towards 0.000000 0.000000
+0.656965732345
+[INFO] [1528239046.676584]: position: [0.40781691820518196, 0.5150624570881754, 0.0]
+straight towards 0.000000 0.000000
+0.656965732345
+[INFO] [1528239046.686453]: position: [0.3906462015065164, 0.4969049332800911, 0.0]
+straight towards 0.000000 0.000000
+0.632075128026
+[INFO] [1528239046.696963]: position: [0.3906462015065164, 0.4969049332800911, 0.0]
+straight towards 0.000000 0.000000
+0.632075128026
+[INFO] [1528239046.706494]: position: [0.3906462015065164, 0.4969049332800911, 0.0]
+straight towards 0.000000 0.000000
+0.632075128026
+[INFO] [1528239046.716535]: position: [0.3906462015065164, 0.4969049332800911, 0.0]
+straight towards 0.000000 0.000000
+0.632075128026
+[INFO] [1528239046.726567]: position: [0.3906462015065164, 0.4969049332800911, 0.0]
+straight towards 0.000000 0.000000
+0.632075128026
+[INFO] [1528239046.736594]: position: [0.3906462015065164, 0.4969049332800911, 0.0]
+straight towards 0.000000 0.000000
+0.632075128026
+[INFO] [1528239046.746586]: position: [0.3733249682702366, 0.4784790365596604, 0.0]
+straight towards 0.000000 0.000000
+0.606888556789
+[INFO] [1528239046.756498]: position: [0.3733249682702366, 0.4784790365596604, 0.0]
+straight towards 0.000000 0.000000
+0.606888556789
+[INFO] [1528239046.766587]: position: [0.3733249682702366, 0.4784790365596604, 0.0]
+straight towards 0.000000 0.000000
+0.606888556789
+[INFO] [1528239046.776524]: position: [0.3733249682702366, 0.4784790365596604, 0.0]
+straight towards 0.000000 0.000000
+0.606888556789
+[INFO] [1528239046.786489]: position: [0.3733249682702366, 0.4784790365596604, 0.0]
+straight towards 0.000000 0.000000
+0.606888556789
+[INFO] [1528239046.796613]: position: [0.3733249682702366, 0.4784790365596604, 0.0]
+straight towards 0.000000 0.000000
+0.606888556789
+[INFO] [1528239046.806531]: position: [0.3733249682702366, 0.4784790365596604, 0.0]
+straight towards 0.000000 0.000000
+0.606888556789
+[INFO] [1528239046.816493]: position: [0.3733249682702366, 0.4784790365596604, 0.0]
+straight towards 0.000000 0.000000
+0.606888556789
+[INFO] [1528239046.826543]: position: [0.3733249682702366, 0.4784790365596604, 0.0]
+straight towards 0.000000 0.000000
+0.606888556789
+[INFO] [1528239046.836508]: position: [0.3733249682702366, 0.4784790365596604, 0.0]
+straight towards 0.000000 0.000000
+0.606888556789
+[INFO] [1528239046.846505]: position: [0.344317689800546, 0.44756780671481167, 0.0]
+straight towards 0.000000 0.000000
+0.564687181648
+[INFO] [1528239046.856532]: position: [0.344317689800546, 0.44756780671481167, 0.0]
+straight towards 0.000000 0.000000
+0.564687181648
+[INFO] [1528239046.866403]: position: [0.344317689800546, 0.44756780671481167, 0.0]
+straight towards 0.000000 0.000000
+0.564687181648
+[INFO] [1528239046.876519]: position: [0.344317689800546, 0.44756780671481167, 0.0]
+straight towards 0.000000 0.000000
+0.564687181648
+[INFO] [1528239046.886443]: position: [0.344317689800546, 0.44756780671481167, 0.0]
+straight towards 0.000000 0.000000
+0.564687181648
+[INFO] [1528239046.896600]: position: [0.344317689800546, 0.44756780671481167, 0.0]
+straight towards 0.000000 0.000000
+0.564687181648
+[INFO] [1528239046.906665]: position: [0.3269347347528248, 0.4289659625701599, 0.0]
+straight towards 0.000000 0.000000
+0.53934971756
+[INFO] [1528239046.916537]: position: [0.3269347347528248, 0.4289659625701599, 0.0]
+straight towards 0.000000 0.000000
+0.53934971756
+[INFO] [1528239046.926612]: position: [0.3269347347528248, 0.4289659625701599, 0.0]
+straight towards 0.000000 0.000000
+0.53934971756
+[INFO] [1528239046.936593]: position: [0.3269347347528248, 0.4289659625701599, 0.0]
+straight towards 0.000000 0.000000
+0.53934971756
+[INFO] [1528239046.946462]: position: [0.3269347347528248, 0.4289659625701599, 0.0]
+straight towards 0.000000 0.000000
+0.53934971756
+[INFO] [1528239046.956630]: position: [0.3269347347528248, 0.4289659625701599, 0.0]
+straight towards 0.000000 0.000000
+0.53934971756
+[INFO] [1528239046.966592]: position: [0.30964882456699055, 0.4104485416099273, 0.0]
+straight towards 0.000000 0.000000
+0.514150172484
+[INFO] [1528239046.976549]: position: [0.30964882456699055, 0.4104485416099273, 0.0]
+straight towards 0.000000 0.000000
+0.514150172484
+[INFO] [1528239046.986486]: position: [0.30964882456699055, 0.4104485416099273, 0.0]
+straight towards 0.000000 0.000000
+0.514150172484
+[INFO] [1528239046.996583]: position: [0.30964882456699055, 0.4104485416099273, 0.0]
+straight towards 0.000000 0.000000
+0.514150172484
+[INFO] [1528239047.006752]: position: [0.30964882456699055, 0.4104485416099273, 0.0]
+straight towards 0.000000 0.000000
+0.514150172484
+[INFO] [1528239047.016477]: position: [0.30964882456699055, 0.4104485416099273, 0.0]
+straight towards 0.000000 0.000000
+0.514150172484
+[INFO] [1528239047.026701]: position: [0.2922467635174501, 0.3917478919495601, 0.0]
+straight towards 0.000000 0.000000
+0.488747973534
+[INFO] [1528239047.036535]: position: [0.2922467635174501, 0.3917478919495601, 0.0]
+straight towards 0.000000 0.000000
+0.488747973534
+[INFO] [1528239047.046580]: position: [0.28647629647520384, 0.3855250744133368, 0.0]
+straight towards 0.000000 0.000000
+0.480310578109
+[INFO] [1528239047.056920]: position: [0.28647629647520384, 0.3855250744133368, 0.0]
+straight towards 0.000000 0.000000
+0.480310578109
+[INFO] [1528239047.066726]: position: [0.28647629647520384, 0.3855250744133368, 0.0]
+straight towards 0.000000 0.000000
+0.480310578109
+[INFO] [1528239047.077128]: position: [0.28647629647520384, 0.3855250744133368, 0.0]
+straight towards 0.000000 0.000000
+0.480310578109
+[INFO] [1528239047.086522]: position: [0.28647629647520384, 0.3855250744133368, 0.0]
+straight towards 0.000000 0.000000
+0.480310578109
+[INFO] [1528239047.096908]: position: [0.28647629647520384, 0.3855250744133368, 0.0]
+straight towards 0.000000 0.000000
+0.480310578109
+[INFO] [1528239047.106556]: position: [0.26922613759907366, 0.3669161516803242, 0.0]
+straight towards 0.000000 0.000000
+0.455093589859
+[INFO] [1528239047.116531]: position: [0.26922613759907366, 0.3669161516803242, 0.0]
+straight towards 0.000000 0.000000
+0.455093589859
+[INFO] [1528239047.126571]: position: [0.26922613759907366, 0.3669161516803242, 0.0]
+straight towards 0.000000 0.000000
+0.455093589859
+[INFO] [1528239047.136582]: position: [0.26922613759907366, 0.3669161516803242, 0.0]
+straight towards 0.000000 0.000000
+0.455093589859
+[INFO] [1528239047.146537]: position: [0.26922613759907366, 0.3669161516803242, 0.0]
+straight towards 0.000000 0.000000
+0.455093589859
+[INFO] [1528239047.156588]: position: [0.26922613759907366, 0.3669161516803242, 0.0]
+straight towards 0.000000 0.000000
+0.455093589859
+[INFO] [1528239047.166573]: position: [0.2518796390115979, 0.34816395145617923, 0.0]
+straight towards 0.000000 0.000000
+0.42972257288
+[INFO] [1528239047.176597]: position: [0.2518796390115979, 0.34816395145617923, 0.0]
+straight towards 0.000000 0.000000
+0.42972257288
+[INFO] [1528239047.186588]: position: [0.2518796390115979, 0.34816395145617923, 0.0]
+straight towards 0.000000 0.000000
+0.42972257288
+[INFO] [1528239047.196864]: position: [0.2518796390115979, 0.34816395145617923, 0.0]
+straight towards 0.000000 0.000000
+0.42972257288
+[INFO] [1528239047.206580]: position: [0.2518796390115979, 0.34816395145617923, 0.0]
+straight towards 0.000000 0.000000
+0.42972257288
+[INFO] [1528239047.216451]: position: [0.2518796390115979, 0.34816395145617923, 0.0]
+straight towards 0.000000 0.000000
+0.42972257288
+[INFO] [1528239047.226554]: position: [0.2345468444394968, 0.32934107010853025, 0.0]
+straight towards 0.000000 0.000000
+0.404323833946
+[INFO] [1528239047.236574]: position: [0.2345468444394968, 0.32934107010853025, 0.0]
+straight towards 0.000000 0.000000
+0.404323833946
+[INFO] [1528239047.246509]: position: [0.2345468444394968, 0.32934107010853025, 0.0]
+straight towards 0.000000 0.000000
+0.404323833946
+[INFO] [1528239047.256881]: position: [0.2345468444394968, 0.32934107010853025, 0.0]
+straight towards 0.000000 0.000000
+0.404323833946
+[INFO] [1528239047.266607]: position: [0.2345468444394968, 0.32934107010853025, 0.0]
+straight towards 0.000000 0.000000
+0.404323833946
+[INFO] [1528239047.276474]: position: [0.2345468444394968, 0.32934107010853025, 0.0]
+straight towards 0.000000 0.000000
+0.404323833946
+[INFO] [1528239047.286534]: position: [0.21735308160034975, 0.31056421597360717, 0.0]
+straight towards 0.000000 0.000000
+0.379067928378
+[INFO] [1528239047.296954]: position: [0.21735308160034975, 0.31056421597360717, 0.0]
+straight towards 0.000000 0.000000
+0.379067928378
+[INFO] [1528239047.306697]: position: [0.2114501511035458, 0.3041155221395001, 0.0]
+straight towards 0.000000 0.000000
+0.370401697091
+[INFO] [1528239047.316929]: position: [0.2114501511035458, 0.3041155221395001, 0.0]
+straight towards 0.000000 0.000000
+0.370401697091
+[INFO] [1528239047.326788]: position: [0.2114501511035458, 0.3041155221395001, 0.0]
+straight towards 0.000000 0.000000
+0.370401697091
+[INFO] [1528239047.336566]: position: [0.2114501511035458, 0.3041155221395001, 0.0]
+straight towards 0.000000 0.000000
+0.370401697091
+[INFO] [1528239047.346501]: position: [0.2114501511035458, 0.3041155221395001, 0.0]
+straight towards 0.000000 0.000000
+0.370401697091
+[INFO] [1528239047.356552]: position: [0.2114501511035458, 0.3041155221395001, 0.0]
+straight towards 0.000000 0.000000
+0.370401697091
+[INFO] [1528239047.366501]: position: [0.19408358662782443, 0.2851499559027185, 0.0]
+straight towards 0.000000 0.000000
+0.344933234046
+[INFO] [1528239047.376651]: position: [0.19408358662782443, 0.2851499559027185, 0.0]
+straight towards 0.000000 0.000000
+0.344933234046
+[INFO] [1528239047.386529]: position: [0.18830577433308796, 0.2788180066666594, 0.0]
+straight towards 0.000000 0.000000
+0.336449915275
+[INFO] [1528239047.396558]: position: [0.18830577433308796, 0.2788180066666594, 0.0]
+straight towards 0.000000 0.000000
+0.336449915275
+[INFO] [1528239047.406514]: position: [0.18830577433308796, 0.2788180066666594, 0.0]
+straight towards 0.000000 0.000000
+0.336449915275
+[INFO] [1528239047.416459]: position: [0.18830577433308796, 0.2788180066666594, 0.0]
+straight towards 0.000000 0.000000
+0.336449915275
+[INFO] [1528239047.426877]: position: [0.18830577433308796, 0.2788180066666594, 0.0]
+straight towards 0.000000 0.000000
+0.336449915275
+[INFO] [1528239047.436767]: position: [0.18830577433308796, 0.2788180066666594, 0.0]
+straight towards 0.000000 0.000000
+0.336449915275
+[INFO] [1528239047.446706]: position: [0.1710618726222862, 0.259913655746976, 0.0]
+straight towards 0.000000 0.000000
+0.311154740778
+[INFO] [1528239047.456669]: position: [0.1710618726222862, 0.259913655746976, 0.0]
+straight towards 0.000000 0.000000
+0.311154740778
+[INFO] [1528239047.466653]: position: [0.1652873765202754, 0.25357868212358187, 0.0]
+straight towards 0.000000 0.000000
+0.302691368996
+[INFO] [1528239047.476516]: position: [0.1652873765202754, 0.25357868212358187, 0.0]
+straight towards 0.000000 0.000000
+0.302691368996
+[INFO] [1528239047.486517]: position: [0.1652873765202754, 0.25357868212358187, 0.0]
+straight towards 0.000000 0.000000
+0.302691368996
+[INFO] [1528239047.496536]: position: [0.1652873765202754, 0.25357868212358187, 0.0]
+straight towards 0.000000 0.000000
+0.302691368996
+[INFO] [1528239047.506508]: position: [0.1652873765202754, 0.25357868212358187, 0.0]
+straight towards 0.000000 0.000000
+0.302691368996
+[INFO] [1528239047.516593]: position: [0.1652873765202754, 0.25357868212358187, 0.0]
+straight towards 0.000000 0.000000
+0.302691368996
+[INFO] [1528239047.526670]: position: [0.14790643054158614, 0.23451072668998257, 0.0]
+straight towards 0.000000 0.000000
+0.277257268846
+[INFO] [1528239047.536589]: position: [0.14790643054158614, 0.23451072668998257, 0.0]
+straight towards 0.000000 0.000000
+0.277257268846
+[INFO] [1528239047.546489]: position: [0.14196639667887842, 0.22798042540792168, 0.0]
+straight towards 0.000000 0.000000
+0.268569417759
+[INFO] [1528239047.556469]: position: [0.14196639667887842, 0.22798042540792168, 0.0]
+straight towards 0.000000 0.000000
+0.268569417759
+[INFO] [1528239047.566454]: position: [0.14196639667887842, 0.22798042540792168, 0.0]
+straight towards 0.000000 0.000000
+0.268569417759
+[INFO] [1528239047.576550]: position: [0.14196639667887842, 0.22798042540792168, 0.0]
+straight towards 0.000000 0.000000
+0.268569417759
+[INFO] [1528239047.586446]: position: [0.14196639667887842, 0.22798042540792168, 0.0]
+straight towards 0.000000 0.000000
+0.268569417759
+[INFO] [1528239047.596596]: position: [0.14196639667887842, 0.22798042540792168, 0.0]
+straight towards 0.000000 0.000000
+0.268569417759
+[INFO] [1528239047.606650]: position: [0.12484914702845293, 0.2090762241591968, 0.0]
+straight towards 0.000000 0.000000
+0.243516276709
+[INFO] [1528239047.617233]: position: [0.12484914702845293, 0.2090762241591968, 0.0]
+straight towards 0.000000 0.000000
+0.243516276709
+[INFO] [1528239047.626740]: position: [0.12484914702845293, 0.2090762241591968, 0.0]
+straight towards 0.000000 0.000000
+0.243516276709
+[INFO] [1528239047.636495]: position: [0.12484914702845293, 0.2090762241591968, 0.0]
+straight towards 0.000000 0.000000
+0.243516276709
+[INFO] [1528239047.646514]: position: [0.12484914702845293, 0.2090762241591968, 0.0]
+straight towards 0.000000 0.000000
+0.243516276709
+[INFO] [1528239047.656456]: position: [0.12484914702845293, 0.2090762241591968, 0.0]
+straight towards 0.000000 0.000000
+0.243516276709
+[INFO] [1528239047.666493]: position: [0.10763874054304891, 0.18996883885983412, 0.0]
+straight towards 0.000000 0.000000
+0.218344356931
+[INFO] [1528239047.676562]: position: [0.10763874054304891, 0.18996883885983412, 0.0]
+straight towards 0.000000 0.000000
+0.218344356931
+[INFO] [1528239047.686550]: position: [0.10178777316409729, 0.18347296160217352, 0.0]
+straight towards 0.000000 0.000000
+0.209816773411
+[INFO] [1528239047.696475]: position: [0.10178777316409729, 0.18347296160217352, 0.0]
+straight towards 0.000000 0.000000
+0.209816773411
+[INFO] [1528239047.706534]: position: [0.10178777316409729, 0.18347296160217352, 0.0]
+straight towards 0.000000 0.000000
+0.209816773411
+[INFO] [1528239047.716480]: position: [0.10178777316409729, 0.18347296160217352, 0.0]
+straight towards 0.000000 0.000000
+0.209816773411
+[INFO] [1528239047.726542]: position: [0.10178777316409729, 0.18347296160217352, 0.0]
+straight towards 0.000000 0.000000
+0.209816773411
+[INFO] [1528239047.736581]: position: [0.10178777316409729, 0.18347296160217352, 0.0]
+straight towards 0.000000 0.000000
+0.209816773411
+[INFO] [1528239047.746539]: position: [0.08454036910703301, 0.16428412993309566, 0.0]
+straight towards 0.000000 0.000000
+0.184760248313
+[INFO] [1528239047.756607]: position: [0.08454036910703301, 0.16428412993309566, 0.0]
+straight towards 0.000000 0.000000
+0.184760248313
+[INFO] [1528239047.766510]: position: [0.08454036910703301, 0.16428412993309566, 0.0]
+straight towards 0.000000 0.000000
+0.184760248313
+[INFO] [1528239047.776536]: position: [0.08454036910703301, 0.16428412993309566, 0.0]
+straight towards 0.000000 0.000000
+0.184760248313
+[INFO] [1528239047.786525]: position: [0.08454036910703301, 0.16428412993309566, 0.0]
+straight towards 0.000000 0.000000
+0.184760248313
+[INFO] [1528239047.796565]: position: [0.08454036910703301, 0.16428412993309566, 0.0]
+straight towards 0.000000 0.000000
+0.184760248313
+[INFO] [1528239047.806463]: position: [0.06717610101213903, 0.14485642992958028, 0.0]
+straight towards 0.000000 0.000000
+0.159674712585
+[INFO] [1528239047.816434]: position: [0.06717610101213903, 0.14485642992958028, 0.0]
+straight towards 0.000000 0.000000
+0.159674712585
+[INFO] [1528239047.826541]: position: [0.06717610101213903, 0.14485642992958028, 0.0]
+straight towards 0.000000 0.000000
+0.159674712585
+[INFO] [1528239047.836876]: position: [0.06717610101213903, 0.14485642992958028, 0.0]
+straight towards 0.000000 0.000000
+0.159674712585
+[INFO] [1528239047.846562]: position: [0.06717610101213903, 0.14485642992958028, 0.0]
+straight towards 0.000000 0.000000
+0.159674712585
+[INFO] [1528239047.856504]: position: [0.06717610101213903, 0.14485642992958028, 0.0]
+straight towards 0.000000 0.000000
+0.159674712585
+[INFO] [1528239047.866547]: position: [0.05009269214007205, 0.1257496768825322, 0.0]
+straight towards 0.000000 0.000000
+0.135359739368
+[INFO] [1528239047.876490]: position: [0.05009269214007205, 0.1257496768825322, 0.0]
+straight towards 0.000000 0.000000
+0.135359739368
+[INFO] [1528239047.886494]: position: [0.05009269214007205, 0.1257496768825322, 0.0]
+straight towards 0.000000 0.000000
+0.135359739368
+[INFO] [1528239047.896876]: position: [0.05009269214007205, 0.1257496768825322, 0.0]
+straight towards 0.000000 0.000000
+0.135359739368
+[INFO] [1528239047.906729]: position: [0.05009269214007205, 0.1257496768825322, 0.0]
+straight towards 0.000000 0.000000
+0.135359739368
+[INFO] [1528239047.916554]: position: [0.05009269214007205, 0.1257496768825322, 0.0]
+straight towards 0.000000 0.000000
+0.135359739368
+[INFO] [1528239047.926540]: position: [0.0325226299066918, 0.10610553284969719, 0.0]
+straight towards 0.000000 0.000000
+0.110977950771
+[INFO] [1528239047.936561]: position: [0.0325226299066918, 0.10610553284969719, 0.0]
+straight towards 0.000000 0.000000
+0.110977950771
+[INFO] [1528239047.946529]: position: [0.026781906248478083, 0.09968262712022075, 0.0]
+straight towards 0.000000 0.000000
+0.103217714816
+[INFO] [1528239047.956461]: position: [0.026781906248478083, 0.09968262712022075, 0.0]
+straight towards 0.000000 0.000000
+0.103217714816
+[INFO] [1528239047.966473]: position: [0.026781906248478083, 0.09968262712022075, 0.0]
+straight towards 0.000000 0.000000
+0.103217714816
+[INFO] [1528239047.976474]: position: [0.026781906248478083, 0.09968262712022075, 0.0]
+straight towards 0.000000 0.000000
+0.103217714816
+[INFO] [1528239047.986507]: position: [0.026781906248478083, 0.09968262712022075, 0.0]
+straight towards 0.000000 0.000000
+0.103217714816
+[INFO] [1528239047.996455]: position: [0.026781906248478083, 0.09968262712022075, 0.0]
+straight towards 0.000000 0.000000
+0.103217714816
+[INFO] [1528239048.006543]: position: [0.009452829081186179, 0.0802806735087528, 0.0]
+straight towards 0.000000 0.000000
+[INFO] [1528239048.067244]: Stop Action

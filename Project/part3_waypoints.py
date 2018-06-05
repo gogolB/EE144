@@ -49,7 +49,7 @@ class turtlebot_move():
 		self.pos_thresh = 0.1
 		self.phi_thresh = np.pi/32
 		self.phi_str_const = 1
-		self.phi_turn_const = 0.5
+		self.phi_turn_const = 0.45
 		self.curr_vel = Twist()
 		self.curr_vel.linear.x = 0.0
 		self.curr_vel.angular.z = 0.0
@@ -78,7 +78,7 @@ class turtlebot_move():
 		self.curr_vel.angular.z = 0
 		self.setVel(self.curr_vel)
 		#allow some time to settle
-		for i in range(10):
+		for i in range(5):
 			self.curr_vel.linear.x = 0
 			self.curr_vel.angular.z = 0
 			self.setVel(self.curr_vel)
@@ -91,7 +91,7 @@ class turtlebot_move():
 		self.curr_vel.angular.z = 0
 		self.setVel(self.curr_vel)
 		#allow some time to settle
-		for i in range(10):
+		for i in range(5):
 			self.curr_vel.linear.x = 0
 			self.curr_vel.angular.z = 0
 			self.setVel(self.curr_vel)
@@ -173,14 +173,14 @@ class turtlebot_move():
 			print("straight towards %f %f" %(x_pnt, y_pnt));
 			#self.phi_goal = self.angle(x_pnt, y_pnt, position[0], position[1])
 			
-			self.curr_vel.angular.z = (self.phi_turn_const * (self.phi_goal - orientation[2])) % np.pi;
+			self.curr_vel.angular.z = (self.phi_goal - orientation[2]);
 			self.setVel(self.curr_vel)
 			self.sleep();
 				
 
 if __name__ == '__main__':
 	#FIXME- the robot turns to pi/2 when it reaches 1,0
-	waypoints = [[0,0],[0,-0.707],[1,-0.707],[1,0],[0,0]]
+	waypoints = [[0.707,0],[0.707,0.9],[0,0]]
 	#,[1,1],[1,1],[0.5,1],[0,1],[0,1],[0,0.5],[0,0]]
 	try:
 		tb = turtlebot_move()
