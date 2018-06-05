@@ -46,7 +46,7 @@ class turtlebot_move():
 		#3. Use PD to follow to waypoint
 		#4. Check current distance often
 		self.phi_goal = 0
-		self.pos_thresh = 0.08
+		self.pos_thresh = 0.1
 		self.phi_thresh = np.pi/32
 		self.phi_str_const = 1
 		self.phi_turn_const = 0.5
@@ -78,7 +78,7 @@ class turtlebot_move():
 		self.curr_vel.angular.z = 0
 		self.setVel(self.curr_vel)
 		#allow some time to settle
-		for i in range(100):
+		for i in range(10):
 			self.curr_vel.linear.x = 0
 			self.curr_vel.angular.z = 0
 			self.setVel(self.curr_vel)
@@ -91,7 +91,7 @@ class turtlebot_move():
 		self.curr_vel.angular.z = 0
 		self.setVel(self.curr_vel)
 		#allow some time to settle
-		for i in range(100):
+		for i in range(10):
 			self.curr_vel.linear.x = 0
 			self.curr_vel.angular.z = 0
 			self.setVel(self.curr_vel)
@@ -180,14 +180,12 @@ class turtlebot_move():
 
 if __name__ == '__main__':
 	#FIXME- the robot turns to pi/2 when it reaches 1,0
-	waypoints = [[0,0],[0,0.707],[1,0.707],[1,0],[0,0]]
+	waypoints = [[0,0],[0,-0.707],[1,-0.707],[1,0],[0,0]]
 	#,[1,1],[1,1],[0.5,1],[0,1],[0,1],[0,0.5],[0,0]]
 	try:
 		tb = turtlebot_move()
-		for i in range(2):
-			print("On Loop %d" % (i+1))
-			for p in waypoints:
-				tb.gotowaypoint(p[0],p[1])
+		for p in waypoints:
+			tb.gotowaypoint(p[0],p[1])
 					
 	except rospy.ROSInterruptException:
          rospy.loginfo("Action terminated.")
