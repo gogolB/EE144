@@ -136,23 +136,14 @@ class turtlebot_move():
 			
 			print("turning towards %.2f %.2f|e: %.2f|g:%.2f" %(x_pnt, y_pnt,(self.phi_goal - orientation[2]), self.phi_goal))
 			
-			if(orientation[2] > 0 and orientation[2] < np.pi):
-				self.phi_error = self.phi_turn_const * (self.phi_goal - orientation[2])
-				#print(orientation[2])
-				self.phi_error = self.phi_error % np.pi
-				self.curr_vel.angular.z = self.phi_error
-				#print("+")
-				#print(abs(phi_goal - orientation[2]))
-				self.setVel(self.curr_vel)
-				self.sleep()
-			else:
-				self.phi_error = self.phi_turn_const * (self.phi_goal - orientation[2])
-				self.phi_error = self.phi_error % np.pi
-				self.curr_vel.angular.z = self.phi_error
-				#print("-")
-				#print(abs(phi_goal - orientation[2]))
-				self.setVel(self.curr_vel)
-				self.sleep()
+			self.phi_error = self.phi_turn_const * (self.phi_goal - orientation[2])
+			#print(orientation[2])
+			self.phi_error = self.phi_error % np.pi
+			self.curr_vel.angular.z = self.phi_error
+			#print("+")
+			#print(abs(phi_goal - orientation[2]))
+			self.setVel(self.curr_vel)
+			self.sleep()
 				
 	def gostraight(self, x_pnt, y_pnt):
 		while True:
@@ -182,7 +173,7 @@ class turtlebot_move():
 			print("straight towards %f %f" %(x_pnt, y_pnt));
 			#self.phi_goal = self.angle(x_pnt, y_pnt, position[0], position[1])
 			
-			self.curr_vel.angular.z = (self.phi_goal - orientation[2]) % np.pi;
+			self.curr_vel.angular.z = (self.phi_turn_const * (self.phi_goal - orientation[2])) % np.pi;
 			self.setVel(self.curr_vel)
 			self.sleep();
 				
